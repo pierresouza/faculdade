@@ -1,0 +1,85 @@
+fase de empatia é a primeira etapa, e nela é preciso ter uma grande compreensão e uma definição bem clara do problema que você quer resolver. Pesquisas quantitativas e qualitativas serão determinantes nessa fase inicial. Também será necessário explorar a observação e a empatia, buscando sempre o entendimento de qual a motivação das pessoas e também as suas experiências. Sendo assim, nesta aula, vamos analisar:
+● Pesquisas qualitativas e quantitativas
+● Entrevistas com usuários
+● Personas e Jornadas
+● Nosso exemplo: a pesquisa e a definição do e-commerce
+A Pesquisa quantitativa nos traz informações mais estatísticas, com quantidade, números (acessos, tempo, venda, $). Já a pesquisa qualitativa nos traz respostas descritivas dos usuários (gosto, prefiro, acho, por quê). Entrevistas com usuários são pesquisas qualitativas e elas podem ser aplicadas em qualquer momento do projeto: antes, durante e após o lançamento. As entrevistas nos ajudam a compreender emoções, motivações e comportamentos (os porquês das coisas).
+Hohemberger e Rossi (2020, p. 23), comentam que “quando se inicia um projeto de Design Thinking, geralmente a equipe não conhece o tema. Portanto, realiza-se uma Imersão Preliminar como forma de aproximação do problema, muitas vezes antes do kick-off do projeto”. Partindo dessas premissas, podemos afirmar que a empatia é um elemento-chave do design centrado no ser humano (como a metodologia Design Thinking). Antes de prosseguirmos, observe algumas ferramentas para otimizar a etapa de imersão (Figura 1).
+​
+
+
+De acordo com Hohemberger e Rossi (2020, p. 16), o Design Thinking é experimental (Figura 2), pois “dá a liberdade de errar e aprender com seus erros porque você tem novas ideias, recebe feedback de outras pessoas e depois repensa suas ideias”. Além disso, os autores supracitados comentam que o processo de design thinking é baseado na:
+● Capacidade de se colocar no lugar do usuário.
+● Capacidade de analisar problemas em geral e em todos os detalhes.
+● Vontade de criar, experimentar, tentar e errar.
+● Mergulhar nos problemas dos usuários.
+● Encontrar o maior número possível de soluções diferentes para um único questionamento; e assim por diante.
+​
+
+
+Na fase de Empatia, você precisa mergulhar nos problemas do usuário. Em um sentido amplo, o seu objetivo é identificar as necessidades do cliente, explorar suas experiências, dificuldades, desejos e motivações. Em outras palavras, “sentir-se no lugar de outra pessoa” (NORMAN, 2002; VIANNA, 2012). Para tanto, você pode criar personagens genéricos para te ajudar. Por exemplo, a persona é uma personagem fictícia que traz características de clientes/usuários reais do seu produto. As personas são criadas com base em pesquisas feitas com usuários reais. Pode haver mais de uma persona por projeto. Em todos eles, tenta-se esclarecer questionamentos e realizar as seguintes etapas:
+
+
+● Quem usará o produto?
+● Coletar informações sobre quem é o usuário ou personagem.
+● Criar um entendimento comum das necessidades dos usuários para ajudar na tomada de decisões.
+● Classificação e análise de pesquisas qualitativas
+● Determinar as prioridades
+● Agrupar mapas de empatia que cobrem usuários individuais
+
+
+De acordo com Gomes (2020, p. 3) a
+
+
+“jornada do cliente surgiu com a necessidade de uma maior compreensão da experiência do cliente, pois as organizações estavam muito focadas nas métricas relativas ao valor que os clientes têm para as mesmas, em vez de se focar em criar valor para o cliente”.
+
+Para criar um mapa de empatia eficaz e útil, você precisa analisar e responder os seguintes questionamentos: (TELKIN, 2010):
+
+1. O quê? - tipos de produtos e serviços que são ofertados de acordo com a segmentação do público.
+2. Quem? - a quem se destina o produto ou serviço.
+3. Por quê? - motivos para comprar os bens e serviços ofertados pela empresa.
+4. Quando? - Situações que os clientes vão querer comprar o produto.
+5. Onde? - onde o cliente adquire o produto/serviço da empresa.
+Depois de obter os dados iniciais da pesquisa para responder os questionamentos supracitados, você pode começar a criar o mapa em equipe O mapa de empatia é o primeiro passo o Design thinking; para tanto, requer cinco etapas (Quadro 1): (1) coletar insights internos, (2) desenvolver hipóteses iniciais, (3) pesquisar processos, necessidades e percepções do cliente, (4) analise a pesquisa do cliente e (5) mapear a jornada do cliente (TELKIN, 2010; GOMES, 2020).
+Quadro 1 – Cinco etapas para mapear a jornada do cliente
+
+
+Fonte: Adaptado de Temkin (2010, p. 5)
+Fonte: Adaptado de Temkin (2010, p. 5)
+
+Fonte: Adaptado de Temkin (2010, p. 5)
+
+As jornadas de usuários apresentam todos os pontos de interação da persona com o produto/serviço, de acordo com o que foi encontrado nas pesquisas. Ao entrevistar usuários, peça a eles para contarem como é o dia a dia deles com aquele produto/serviço. Faça perguntas como: O quê? Como? Por quê? Quando? Onde? Com quem? Para quê? Não responda por eles ou complete as frases, ouça com atenção o que eles dizem e observe o que eles fazem.
+Quando fizer um cartão sobre a sua persona, é bom ter um nome e uma imagem. Escreva as informações importantes para seu projeto, que podem ser gênero, idade, nível de escolaridade, costume com tecnologia, classe social (renda), objetivo e expectativa em relação ao produto ou serviço. Pesque da entrevista uma frase que a pessoa disse que você acha que a define, e transcreva no cartão da persona. As jornadas de usuários podem ser do momento atual ou do momento futuro, esperado. Lembre-se de colocar anotações de cada ponto de interação, indicando se aquele momento está bom ou se é necessário melhorá-lo.
+
+Você pode preencher o Mapa de Empatia para ajudar a equipe a organizar e compreender melhor as personas dos projetos.
+
+Espero que tenham gostado e até mais!
+
+Vida longa e próspera!​
+
+
+
+​
+
+Atividade Extra
+
+Recomendo que vocês façam a leitura do artigo “Design thinking como ferramenta para geração de inovação: um estudo de caso da Biblioteca Universitária da UDESC”, dos autores Jordan Paulesky Juliani, Marcelo Cavaglieri e Raquel Bernadete Machado, que pode ser facilmente encontrado no Google.
+
+Fonte: JULIANI, J. P.; CAVAGLIERI, M.; MACHADO, R. B. Design thinking como ferramenta para geração de inovação: um estudo de caso da Biblioteca Universitária da UDESC. InCID: Revista de Ciência da Informação e Documentação, [S. l.], v. 6, n. 2, p. 66-83, 2015. DOI: 10.11606/issn.2178-2075.v6i2p66-83.
+
+
+
+Referência Bibliográfica
+
+HOHEMBERGER, Diones Antonio; ROSSI, Fábio Diniz. Guia Didático do Design Thinking: uma metodologia ativa para estimular a criatividade, a inovação e o empreendedorismo em sala de aula. Instituto Federal Farroupilha - IFFAR. Mestrado em Educação Profissional e Tecnológica - PROFEPT, 2020. Disponível em: http://educapes.capes.gov.br/handle/capes/572344. Acesso em 19 de nov. 2022. (acesso em 25/11/2022)
+
+MJV (2021). Mapa de Empatia https://www.mjvinnovation.com/pt-br/blog/mapa-da-empatia/. Acesso em: mar 2022. (acesso em 25/11/2022)
+
+NORMAN, D. A. O Design do dia-a-dia. 2o ed. Rio de Janeiro - RJ: Editora Rocco Ltda, 2002.
+
+STANFORD D.SCHOOL. An Introduction to Design Thinking Process Guide. Acesso em ago 2022. Disponível em: https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf (acesso em 25/11/2022)
+
+TEMKIN, B. D. Mapping the customer journey. Forrester Research, v. 3, 2010.
+
+VIANNA, M. et al. Design thinking: inovação em negócios. Rio de Janeiro: MJV Press, 2012. 162p.

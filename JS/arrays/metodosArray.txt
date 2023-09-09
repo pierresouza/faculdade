@@ -1,0 +1,12 @@
+Algumas das principais funções para Arrays:
+• join(): junta sequencialmente os elementos de um Array usando o caractere (ou caracteres)
+passado por parâmetro. Se ele não é indicado, usa-se a vírgula como default.
+• shift(): retorna o primeiro valor de um Array e remove os demais.
+• sort(): ordena os elementos de um Array.
+• reverse(): inverte a ordem dos elementos. O primeiro se torna o último e o último se torna
+o primeiro.
+• slice(): retorna os elementos selecionados de um Array.
+• length(): indica o número de elementos em um Array.
+• push (valorl, valor2, adiciona um ou mais elementos (valor l, valor2, etc.) ao final de
+um Array, retornando o seu novo tamanho.
+• pop(): retorna o último elemento de um Array e remove os demais.

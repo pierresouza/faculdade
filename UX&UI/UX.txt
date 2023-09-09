@@ -1,0 +1,158 @@
+Experiência do Usuário (em inglês, User Experience - UX) é o que uma pessoa sente ao interagir com uma empresa. Apesar de ser um termo muito utilizado, ele ainda gera muitas dúvidas entre as pessoas. Sendo assim, nesta aula, vamos compreender:
+
+● O que é UX? Por que é importante?
+
+● A relação entre UX e UI
+
+● Os tipos de UX no mercado de trabalho
+
+● As entregas de UX
+
+
+Importante
+
+EXPERIÊNCIA DO USUÁRIO: “Como uma pessoa se sente ao usar um produto. Ou mais formalmente, de acordo com a definição dada pela ISO 9241-210, são as respostas e percepções de uma pessoa resultantes do uso de um produto, sistema ou serviço” (ALURA, 2022, p. 1).
+
+A experiência do usuário é tudo relacionado ao produto ou serviço. Queremos que os usuários amem nossos produtos, por isso queremos que as experiências deles com nossos produtos ou serviços sejam úteis, desejáveis, acessíveis, confiáveis, encontráveis, usáveis e valorosas.
+
+
+A experiência do Usuário (Figura 1) é:
+
+● Observar os usuários e suas ações;
+● Imersão no universo do usuário.
+● Um estudo da experiência de uso de produtos e serviços;
+● A capacidade de se colocar no lugar de outra pessoa;
+● Buscar múltiplas soluções para uma única questão.
+
+Ferreira, Fernandes e Vargas (2017, p. 72) comentam que “o mapa da empatia […] é uma das importantes ferramentas do Design adaptadas ao uso para o Business Model Canvas para ajudar a entender o usuário” (Figura 1). Além disso, os autores supracitados comentam que o UX é focado em cenários pessoais, comportamento e ações, não apenas para o benefício dos consumidores finais, mas também para as empresas.​
+
+
+UX e UI são letras que muitas vezes são confundidas, mas são termos diferentes, que estão relacionados. UI Design é uma parte do UX Design. UI (User Interface ou Interface do usuário) é a parte gráfica com a qual a gente interage. UX (User Experience ou Experiência do Usuário) é uma área bem maior que abrange vários outros elementos além da parte gráfica como conteúdo (textos), som etc. Donald Norman, um proeminente acadêmico na área de Design, cunhou o termo “UX”; em uma de suas inúmeras entrevistas, o autor comentou que:
+
+
+“Eu inventei o termo porque achava que interface do usuário e usabilidade eram muito restritos, eu queria cobrir todos os aspectos da experiência de uma pessoa com o sistema, incluindo design industrial, gráficos, a interface, a interação física e o manual. Desde então, o termo tem se espalhado amplamente…”. (Don Norman, 1990)
+
+
+De fato, podemos observar que a experiência do usuário percorreu um longo caminho, desde a década de 1990 (Figura 2). Obviamente, “UX” evoluiu e está mudando, à medida em que a tecnologia reorienta a práxis social. Embora seja temerário fazer generalizações, podemos afirmar que a ascensão do UX ainda está por vir (NORMAN, 2008).
+
+
+A Figura a seguir ilustra o paradigma da Experiência do Usuário; isto é, um método adequado para criar produtos e serviços centrados no ser humano.
+
+
+Com base no exposto, vamos analisar um trecho da ISO 9241-11:2010, uma norma que aborda recomendações para construir produtos e serviços centrados na dimensão humana ao longo do ciclo do projeto. Assim, temos o Design centrado no usuário como:
+
+
+“[…]uma abordagem para o desenvolvimento de sistemas interativos que visa tornar os sistemas mais utilizáveis e úteis, centrando-se nos usuários, suas necessidades e exigências, aplicando ergonomia e conhecimentos técnicos de usabilidade. Essa abordagem melhora a eficácia e eficiência, melhora o bem-estar humano, a satisfação dos usuários, a acessibilidade e sustentabilidade; neutralizando possíveis efeitos do uso na saúde, segurança e desempenho humanos.”
+
+
+
+A norma ISO 9241-210 (figura a seguir) fornece recomendações que, apesar do cunho, que enfatiza a complexidade da usabilidade, não por acaso se tornou referência para profissionais que buscam propor soluções e resolver problemas específicos, além de projetar, construir e criar algo novo.
+
+
+Assim, devemos compreender que os elementos a seguir afetam a experiência do usuário:
+
+
+● Emoções
+
+● Crenças
+
+● Preferências
+
+● Comportamento​
+
+● Reações físicas e psicológicas
+
+● Necessidades
+
+
+No mercado de trabalho atual, vemos diferentes atuações de profissionais de UX:
+
+● UX Research (pesquisa)
+
+● UX Design (a parte mais gráfica)
+
+● UX Writing (os conteúdos textuais)
+
+● UX Metrics (o que vamos medir)
+
+● UX Strategy (a estratégia de UX como um todo).
+
+
+Esses termos tendem a mudar, então é importante sempre estarmos atentos para atualizações que o mercado esteja adotando.
+
+Dentre os artefatos que os profissionais de UX elaboram, podem estar:
+
+● Protótipos (simulações);
+
+● Wireframes (rascunhos de tela);
+
+● Personas (representantes dos usuários);
+
+● Relatórios de pesquisas e de análises;
+
+● Relatórios de usabilidade;
+
+● Diagramas, fluxos, mapas;
+
+● Bibliotecas, glossários;
+
+● Apresentações, dentre outros.
+
+
+Lembre-se que cada projeto pode demandar um ou mais artefatos. Além disso, em um mundo com muitas informações e diversos produtos digitais, a experiência de usuários tem sido cada vez mais importante e a tendência é que continue sendo. Considere a área de UX em todos os projetos em que houver pessoas interagindo com objetos ou serviços. Qual atuação de UX você mais gosta? A parte de criar layouts? De estruturar wireframes? Ou da parte de pesquisa ou de escrita? Se desejar migrar para a área de UX, encontre quais dessas áreas te atraem mais. Conviria lembrar aqui que a experiência do usuário é um método (e por que não, um paradigma ou uma ideologia) usado para superar estereótipos e resolver problemas que levem em consideração os sentimentos e emoções dos usuários. Assim, a experiência do usuário é baseada em três princípios (NORMAN, 2008):
+
+
+● Empatia: a capacidade de se colocar no lugar de outro indivíduo, de entender seus sentimentos, emoções, dores, anseios, e, principalmente, compreender suas particularidades;
+
+● Amplitude de Pensamentos: a capacidade de analisar algo de forma panorâmica e, ao mesmo, observar as relações existentes entre cada parte com o todo. Em outras palavras, o profissional precisa cobrir o problema tanto em geral quanto em todos os detalhes possíveis;
+
+● Experimentação: a capacidade e vontade de fazer, falhar e fazer novamente. Lembre-se: “Não tente! Faça! Ou não faça. Não existe tentar."
+
+
+O trabalho proposto por Ramos et al (2016) reúne informações importantes sobre o Design de Serviços e a Experiência do Usuário. Quer um, quer outro, são figuras que ajudam a entender o sujeito, compreender seu problema e encontrar soluções alternativas (Figura 2).
+
+
+Cada projeto pode demandar um ou mais artefatos, dependendo de uma análise a ser feita no início do projeto, considerando prazo, time e outros fatores que podem ser importantes. Pense em um médico que, depois da consulta, diz se o paciente vai fazer exames e quais eles devem ser.
+Quem atua com UI, geralmente, vai considerar a experiência do usuário (UX) daquela interface específica que desenhou. Mas esse profissional não vai, necessariamente, desenhar a experiência como um todo. Para memorizar, duas frases que parecem estranhas, mas fazem todo sentido: “Toda UI deve ter a sua UX” e “A UI faz parte de uma UX maior”.
+
+Espero que tenham gostado e até mais!
+
+Vida longa e próspera!
+​
+
+
+
+
+
+Atividade Extra
+
+
+
+Recomendo que vocês façam a leitura do artigo “Design de serviços e experiência do usuário (UX): uma análise do relacionamento das áreas”, que pode ser facilmente encontrado no Google.
+
+
+Fonte: RAMOS, M. et al. Design de serviços e experiência do usuário (UX): uma análise do relacionamento das áreas. DAPesquisa, Florianópolis, v. 11, n. 16, p. 105-123, 2016. DOI: 10.5965/1808312911162016105
+
+
+
+
+
+
+
+Referência Bibliográfica
+
+
+
+ALURA. UX e Usabilidade aplicados em mobile web. 2022. Disponível em: < https://www.caelum.com.br/apostila/apostila-ux-usabilidade-mobile-web.pdf>. Acesso em 21 de Nov 2022. (acesso em 24/11/2022)
+
+
+CASTRO JUNIOR, Eurides Florindo de. A experiência do usuário (UX) em interfaces gráfico-informacionais: um estudo de caso dos aplicativos de educação em saúde da UNASUS/UFMA. 2016. 167 f. Dissertação (Mestrado em DESIGN DE PRODUTOS) - Universidade Federal do Maranhão, São Luís, 2016. (acesso em 24/11/2022)
+
+
+FERREIRA, E. S. dos S.; FERNANDES, R. Q. K.; VARGAS, V. A influência do Design no Business Model Canvas: interfaces possíveis entre os campos do Design e da Administração, p. 61-82. In: ARRUDA, Amilton J. V… Design& Complexidade. São Paulo: Blucher, 2017.
+
+
+GRILO, André (2019). Experiência do usuário em interfaces digitais. Natal, RN: SEDIS-UFRN.
+
+
+IDF- INTERACTION DESIGN FOUNDATION. What is User Interface (UI) Design? (2019). Disponível em: https://www.interaction-design.org/literature/topics/ui-design. Acesso em abril 2022. (acesso em 24/11/2022)

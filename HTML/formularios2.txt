@@ -1,0 +1,54 @@
+Bem-vindos novamente, estudantes! Dando continuidade ao nosso estudo sobre formulários HTML, vamos examinar um tipo adicional de campo que pode ser incorporado a um formulário - as caixas de seleção. Caixas de seleção, como podemos observar em algumas figuras ilustrativas, são opções de conteúdo selecionadas pelo usuário. Nesse caso, o usuário não precisa inserir informações diretamente; em vez disso, ele escolhe entre as opções fornecidas. Dessa forma, diferentemente dos campos de entrada de texto, as caixas de seleção possuem um atributo adicional denominado “atributo de valor” ou “value”, que contém o valor a ser selecionado pelo usuário.
+
+Agora, vamos voltar à nossa análise dos formulários de orçamento. No nosso exemplo, um campo de senha foi adicionado. Contudo, é importante reconhecer que esse campo não tem lugar num orçamento; ele foi adicionado apenas para exemplificar a variedade de campos que podemos adicionar em um formulário. Neste momento, gostaríamos de adicionar um campo de caixa de seleção para determinar quais serviços nosso cliente deseja contratar. Para isso, adicionamos um ‘label’, um título para o campo: “Quais serviços deseja contratar?”.
+
+Para inserir uma caixa de seleção, utilizamos um ‘input’. A caixa de seleção, em inglês, é chamada de ‘checkbox’. O tipo desse campo de entrada é ‘checkbox’. É essencial que cada campo tenha um ‘name’. Por exemplo, podemos adicionar um campo para “passagens”, para verificar se o cliente deseja contratar o serviço de compra de passagens. Portanto, o ‘name’ seria ‘passagens’ e o ‘value’ também seria ‘passagens’. O valor é o que será enviado para o servidor se o cliente selecionar a caixa de seleção.
+
+A agência de viagens do nosso exemplo oferece três serviços: compra de passagens, reserva de hospedagem e aluguel de veículos. Portanto, adicionaremos outras ‘checkboxes’ para hospedagem e veículos, seguindo o mesmo processo que usamos para as passagens. Assim, temos três ‘checkboxes’: compra de passagens, reserva de hospedagem e aluguel de veículos. O ‘checkbox’ permite ao usuário escolher um, todos ou nenhum serviço, oferecendo múltiplas opções de escolha.
+
+HTML5 introduziu um elemento útil chamado ‘fieldset’. Este recurso nos permite agrupar vários campos de entrada. No início do formulário, solicitamos o nome e o e-mail do usuário, e em uma segunda parte, queremos saber quais serviços ele deseja contratar. Para melhorar a navegação, é melhor separar esses campos. Fazemos essa separação usando o elemento ‘fieldset’. Cada campo é mais bem estruturado e o navegador reconhece cada um como um campo distinto.
+
+Os ‘fieldsets’ também são úteis para separar e organizar informações no formulário. Por exemplo, podemos criar dois ‘fieldsets’ para “Dados do usuário” e “Dados da viagem”. Dessa forma, temos dois ‘fieldsets’ que são grupos de elementos distintos, facilitando a navegação para o usuário. Após organizar os elementosna tela, é perceptível que o formulário está mais estruturado e fácil de usar.
+
+Esta abordagem proporciona uma experiência de usuário aprimorada e facilita a interpretação dos dados do formulário por parte do usuário, já que cada campo é facilmente identificável e separado logicamente. Os elementos de formulário HTML, como ‘checkboxes’, ‘labels’, ‘fieldsets’ e ‘legends’, são ferramentas poderosas que nos permitem criar formulários interativos e user-friendly. Ao combiná-los adequadamente, podemos desenvolver formulários complexos que satisfazem uma ampla variedade de necessidades do usuário.
+
+
+
+Tipos de campos para envio de dados: Botões de rádio
+
+Vamos focar agora em outro tipo de campo para envios de dados de um formulário: os botões de rádio. Esses campos são semelhantes aos que exploramos na aula anterior, os “checkboxes”, mas com uma diferença crucial - com os botões de rádio, o usuário só pode selecionar uma opção, ao contrário dos “checkboxes”, que permitem várias seleções.
+
+Para entender melhor, vamos recorrer ao nosso exemplo contínuo do formulário de orçamento de uma agência de viagens. Já temos um grupo de campos para “Dados da Viagem” e outro para “Quais serviços deseja contratar?”. Agora, vamos adicionar outro grupo de campos, um “fieldset”, para perguntar ao nosso cliente qual a forma de pagamento ele vai utilizar para pagar a viagem.
+
+O agrupamento de campos, ou “fieldset”, é importante para manter nosso formulário organizado e amigável para o usuário. Então, vamos começar adicionando um novo “fieldset” com o título “Escolha a forma de pagamento”. Dentro desse “fieldset”, vamos incluir algumas opções de pagamento utilizando botões de rádio.
+
+Ao adicionar botões de rádio, o processo é bastante semelhante ao que fizemos com os “checkboxes”. Primeiro, adicionamos um ‘label’, ou etiqueta, para o campo, em seguida, usamos a tag ‘input’ para inserir o botão de rádio. O tipo desse campo é ‘radio’, denotando que é um botão de rádio.
+
+Diferentemente dos ‘checkboxes’, todos os botões de rádio compartilham o mesmo ‘name’, mas têm valores diferentes. Isso ocorre porque, enquanto os ‘checkboxes’ permitem múltiplas seleções, os botões de rádio permitem apenas uma. Portanto, todos os botões de rádio no grupo devem ter o mesmo ‘name’, e o valor do botão selecionado é o que será enviado para o servidor.
+
+Por exemplo, suponhamos que tenhamos três formas de pagamento: cartão de crédito, boleto e PIX. Cada um desses será representado por um botão de rádio com o mesmo ‘name’ (“forma de pagamento”), mas com diferentes ‘values’ (ou seja, “cartão de crédito”, “boleto”, “PIX”). Além disso, cada botão de rádio é acompanhado por um rótulo visível para o usuário, que indica o que cada botão representa.
+
+A utilidade dos botões de rádio é evidente quando temos opções mutuamente exclusivas, ou seja, quando o usuário só pode escolher uma opção. No nosso exemplo, o cliente só pode escolher uma forma de pagamento - não pode pagar com cartão de crédito e boleto ao mesmo tempo. Portanto, os botões de rádio são a ferramenta perfeita para essa situação.
+
+Tipos de campos para envio de dados: Lista suspensa
+
+Nesta última parte do nosso estudo sobre os formulários HTML, iremos examinar um tipo de campo de entrada conhecido como lista suspensa. Listas suspensas, criadas com o elemento ‘select’, apresentam ao usuário uma série de opções das quais ele pode escolher uma. Ao clicar no campo de entrada, uma lista de opções é exibida, da qual o usuário pode fazer sua escolha.
+
+Para ilustrar, vamos dar continuidade ao nosso exemplo anterior do formulário de orçamento de uma agência de viagens. Já temos grupos de campos para “Dados da Viagem”, “Quais serviços deseja contratar?” e “Escolha a forma de pagamento”. Agora, vamos adicionar outro grupo de campos onde o cliente poderá selecionar o prazo de pagamento. Usaremos a tag ‘select’ para criar uma lista suspensa de opções de prazo de pagamento. Cada opção é definida com a tag ‘option’ e atribuída um valor que será enviado para o servidor se a opção for selecionada. No nosso exemplo, as opções podem ser “à vista”, “cinco vezes sem juros” ou “dez vezes com juros”. Para pré-selecionar uma opção, utilizamos o atributo ‘selected’ na opção desejada. Como tal, os campos de lista suspensa oferecem uma forma conveniente e fácil de apresentar várias opções ao usuário.
+
+Ao concluir o nosso estudo sobre campos de formulários, fica evidente que eles são ferramentas versáteis e indispensáveis para coletar informações dos usuários de maneira estruturada e fácil de usar. Lembre-se de que sempre há mais a aprender - a documentação da W3C Schools é uma fonte inestimável de informações sobre os padrões HTML e CSS e pode fornecer uma visão mais profunda sobre como trabalhar com campos de formulários e outros elementos HTML. Continue aprendendo e explorando, e até a próxima!
+
+
+
+Conteúdo Bônus
+
+A visita ao site Mozilla Developer Network (MDN) é altamente recomendada. A seção “HTML/Elements/form” contém uma série de artigos e tutoriais que abordam diferentes aspectos dos formulários HTML, incluindo caixas de seleção, botões de rádio e listas suspensas. Lembre-se de procurar especificamente pelo tópico de seu interesse.
+
+Ao explorar esses recursos, você ganhará uma compreensão mais profunda sobre a criação de formulários em HTML, ajudando-o a desenvolver habilidades valiosas para sua jornada de aprendizado em desenvolvimento web.
+
+
+
+Referência Bibliográfica
+
+
+MDN Web Docs. [S. l.], 20 set. 2022. Disponível em: <https://developer.mozilla.org/pt-BR/docs/Learn/Forms>. Acesso em: 20 set. 2022.

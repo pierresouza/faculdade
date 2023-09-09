@@ -1,0 +1,172 @@
+Uma tabela é um conjunto estruturado de dados composto de linhas e colunas. A tabela permite pesquisar de forma rápida e fácil valores que indicam algum tipo de conexão entre diferentes tipos de dados, por exemplo, uma pessoa e sua idade ou um horário no dia da semana, por exemplo.
+
+Objetivos da aula
+
+● Definir o conceito de tabelas em documentos HTML.
+
+● Discutir a estrutura básica de tabela em documentos HTML.
+
+● Explicar a estrutura semântica de tabela em documentos HTML.
+
+Resumo
+
+O que são tabelas e qual é a estrutura básica de uma tabela
+
+Uma tabela é um conjunto estruturado de dados composto de linhas e colunas. A tabela permite pesquisar de forma rápida e fácil valores que indicam algum tipo de conexão entre diferentes tipos de dados, por exemplo, uma pessoa e sua idade ou um horário no dia da semana, por exemplo.
+
+As tabelas em HTML iniciam com a tag <table> e terminam com o fechamento dela </table>. Cada linha da tabela começa com uma tag <tr> e termina com uma </tr>. E cada célula da tabela é começa com a tag <td> e termina com a </td>, como no exemplo a seguir:
+
+<table>
+    <tr>
+        <th>Coluna 1</th>
+        <th>Coluna 2</th>
+        <th>Coluna 3</th>
+    </tr>
+    <tr>
+        <td>Conteúdo 1</td>
+        <td>Conteúdo 2</td>
+        <td>Conteúdo 3</td>
+    </tr>
+</table>
+
+A tabela pode ter quantas linhas forem necessárias, apenas certifique-se de que o número de células seja o mesmo em cada linha. Caso deseje que a primeira linha seja um cabeçalho, utilize a tag <th> em vez da tag <td> (como no exemplo acima isso deixará o conteúdo em negrito e centralizado
+
+Estrutura semântica de uma tabela
+
+Podemos trazer semanticidade para uma tabela adicionando as algumas tags do HTML5 como:
+
+● A tag <thead> que define onde está o cabeçalho
+
+● A tag <tbody> que define onde está o corpo da tabela
+
+● A tag <tfoot> que define onde está o rodapé
+
+● A tag <caption> que possibilita definir o título da tabela, importante para que o leitor possa ter uma ideia do conteúdo da mesma.
+
+Os navegadores podem usar esses elementos para permitir a rolagem do corpo da tabela independentemente do cabeçalho e do rodapé. Além disso, ao imprimir uma tabela grande, que abranja várias páginas, esses elementos podem permitir que o cabeçalho e o rodapé da tabela sejam impressos na parte superior e inferior de cada página. Por fim, estes são elementos também importantes para leitores de tela e ferramentas de busca. A sintaxe final é a que se segue:
+
+<table>
+       <thead>
+               <tr>
+                      <th>Coluna 1</th>
+                      <th>Coluna 2</th>
+               </tr>
+       </thead>
+       <tbody>
+               <tr>
+                      <td>Conteúdo coluna 1 linha 1</td>
+                      <td>Conteúdo coluna 2 linha 1</td>
+               </tr>
+               <tr>
+                      <td>Conteúdo coluna 1 linha 2</td>
+                      <td>Conteúdo coluna 2 linha 2</td>
+               </tr>
+       </tbody>
+       <tfoot>
+               <tr>
+                      <td>Conteúdo coluna 1 linha 3</td>
+                      <td>Conteúdo coluna 2 linha 3</td>
+               </tr>
+       </tfoot>
+</table>
+
+Conteúdo Bônus
+
+Aprofunde seu conhecimento sobre a criação de tabelas em HTML com este guia prático:
+
+1. Continue a construção de sua página web e adicione mais uma seção. Abra o elemento <section> e, dentro dele, insira uma tabela.
+
+2. Inicie a tabela abrindo a tag <table border>.
+
+1. Insira o cabeçalho da tabela abrindo a tag <thead>.
+
+2. Dentro dessa tag, crie uma linha abrindo a tag <tr>.
+
+3. Nesta linha, inclua duas colunas de cabeçalho com o conteúdo desejado, usando as tags <th>Coluna 1</th>, <th>Coluna 2</th>.
+
+4. Feche a linha com </tr> e feche o cabeçalho com </thead>.
+
+5. Abra o corpo da tabela com a tag <tbody>.
+
+6. Inclua uma linha com <tr>. Dentro desta linha, adicione duas colunas com conteúdo utilizando <td>Conteúdo coluna 1</td> <td>Conteúdo coluna 2</td>. Feche a linha com </tr>.
+
+7. Adicione mais linhas seguindo o mesmo processo descrito acima.
+
+8. Feche o corpo da tabela com a tag </tbody>.
+
+9. Feche a tabela com a tag </table>.
+
+10. Finalmente, feche a seção com </section>.
+
+Agora, volte ao navegador, atualize a página e veja como a tabela inserida se apresenta. Lembre-se: você pode adicionar ou remover colunas conforme a necessidade. Essa flexibilidade é uma das vantagens das tabelas em HTML. Pratique e aperfeiçoe suas habilidades!
+
+
+
+Dica quente para você não esquecer
+
+As tabelas HTML devem ser usadas para dados tabulares apenas. Não devem ser utilizadas para posicionar elementos na tela. Isso era comumente usado antigamente porque o suporte a CSS em navegadores costumava ser terrível, mas atualmente não é mais necessário.
+
+Os principais motivos para não utilizar tabelas na estruturação do layout são os seguintes:
+
+● As tabelas de layout reduzem a acessibilidade para usuários com deficiência visual.
+
+● Tabelas produzem sopa de tags: Como mencionado acima, os layouts de tabela geralmente envolvem estruturas de marcação mais complexas do que as técnicas de layout adequadas. Isso pode tornar o código mais difícil de escrever, manter e depurar.
+
+● As tabelas não são responsivas automaticamente.
+
+
+
+Referência Bibliográfica
+
+MDN Web Docs. [S. l.], 20 set. 2022. Disponível em: https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Tables. Acesso em: 20 set. 2022.
+
+
+
+Atividade Prática 4: Montando tabelas com HTML
+
+Título da Prática: Criação de Tabela HTML Semântica
+
+Objetivo: O objetivo desta atividade é permitir que os alunos apliquem os conceitos aprendidos na aula “Montando tabelas com HTML”, criando uma tabela HTML semântica que incorpora cabeçalho, corpo e rodapé.
+
+Materiais, Métodos e Ferramentas:
+
+1. Computador com acesso à internet
+
+2. Editor de texto (como o Sublime Text, Atom, Visual Studio Code, etc.)
+
+3. Navegador web para visualização do resultado (como Google Chrome, Firefox, etc.)
+
+Descrição da atividade
+
+1º passo
+
+Crie uma nova página HTML chamada “tabela.html”.
+
+2º passo
+
+Na página, você deve criar uma tabela com pelo menos três colunas e três linhas, utilizando as tags <table>, <tr>, <td> e <th>.
+
+3º passo
+
+A primeira linha da tabela deve ser um cabeçalho, utilizando a tag <th> em vez da tag <td>.
+
+4º passo
+
+Adicione semântica à tabela utilizando as tags <thead>, <tbody> e <tfoot> para definir o cabeçalho, corpo e rodapé da tabela, respectivamente.
+
+5º passo
+
+Adicione uma legenda à tabela utilizando a tag <caption>.
+
+6º passo
+
+Salve seu trabalho e visualize a página no navegador.
+
+Gabarito Atividade Prática
+
+Aqui está um exemplo de como a página HTML pode ser estruturada:
+
+
+
+Lembre-se de substituir “Cabeçalho 1”, “Cabeçalho 2”, “Cabeçalho 3”, “Conteúdo 1”, “Conteúdo 2”, etc., com o conteúdo apropriado para sua tabela.​
+

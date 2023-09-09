@@ -1,0 +1,99 @@
+omo escolher a metodologia em design? Para o projeto ter o resultado esperado é muito importante identificar qual metodologia será aplicada. Entre as mais utilizadas está a design thinking, que é um conjunto de métodos e ferramentas que trabalha com empatia e criatividade sempre pensando na necessidade do cliente. Sendo assim, nesta aula, vamos analisar:
+
+ 
+● Tipos de metodologias de design
+● O design thinking
+● Por que aplicar o design thinking?
+● Design Sprint
+
+ 
+Há, no mercado, diversas metodologias de design: Double Diamond, Processo da Ideo, Design Thinking de Stanford, dentre outras. Essas metodologias são aplicadas em produtos digitais e também em analógicos. Muitas equipes mesclam essas metodologias, adaptando-as para suas realidades. Todo processo de design é tanto um processo criativo como um processo de solução de problemas (Löbach,1976). As semelhanças entre metodologias de design são fases de: entender o problema, captar informações, captar ideias, validar soluções, aplicar ciclos iterativos e times multidisciplinares.
+A metodologia do Google Ventures chamada Design Sprint é um sucesso de estratégia de negócios que qualquer equipe pode usar. O sprint é um processo de cinco dias para responder a perguntas críticas de negócios por meio de design, criação de protótipos e ideias e teste com os clientes. No mesmo sentido, Barros Neto (2021, p. 24), confirma que o Design Sprint é uma sessão de trabalho de cinco dias que ajuda a equipe de desenvolvimento a refinar a visão de um produto ou serviço, “pode ser utilizada em diferentes situações, desde projetos nascentes até mais maduros. Em projetos nascentes, ela ajuda a criar o conceito de uma nova solução e a explorar diversas oportunidades”.
+Como o Design sprint realmente funciona? Conforme Knapp et al. (2017, p. 25) nos lembra, Design Sprint é uma metodologia para impulsionar a produtividade, resolvendo problemas por meio de prototipagem e pesquisa de comportamento do usuário; “o sprint dá a nossas startups um superpoder: elas podem se transportar para o futuro e ver o produto final e as reações dos clientes antes de fechar compromissos dispendiosos”. Fazendo um balanço das vantagens significativas do design sprint para aumentar o ritmo de novas descobertas, temos:
+● Entender a complexidade do problema;
+● Compreensão mútua para o processo de exploração e descoberta;
+● Democratiza o processo de tomada de decisões;
+● Incentiva o processo criativo, o diálogo e a empatia;
+● Auxilia a tomar decisões mais rapidamente;
+● Auxilia a identificar os problemas dos usuários.
+
+Como funciona a experiência de cinco dias do design sprint (Quadro 1)? A seguir, vamos analisar, rapidamente, a metodologia design sprint.
+
+Dia 1: Compreensão (Entender/definir).
+● Formular metas de produto/serviços e objetivos do sprint;
+● Descrever o caminho do usuário (mapa) para apontar problemas de interação;
+● Coletar informações sobre as principais necessidades do usuário;
+● Escolher os problemas com os quais trabalhar.
+
+Dia 2: Divergência (trabalhando na solução).
+● Definir as metas e métricas de sucesso para alcançar os objetivos discutidos no dia 1.
+● Criar conceitos de produto ou serviços, elaborar ideias de interface;
+● Escolher as melhores soluções para criação de elementos audiovisuais.
+● Cada participante do sprint apresenta soluções de design.
+
+Dia 3: Convergência
+● Identificar e tomar decisões referentes ao próximo ciclo do produto.
+● Construir elementos visuais para facilitar o processo de articulação das ideias.
+● Criar um storyboard - a base do protótipo.
+
+Dia 4: Prototipagem
+● Confirmar a fidelidade da hipótese através de um protótipo
+● Criar um protótipo funcional;
+● Testa o protótipo conforme ele é construído, definindo tarefas para revisão;
+● Escrever testes de protótipo com script para o próximo dia.
+
+Dia 5: Validar
+● Testar hipóteses durante o teste com usuários.
+
+Vamos detalhar a principal pergunta para as quais estamos procurando respostas em cada estágio (KNAPP, 2016; BARROS, 2021):
+● Dia 1 (Entender): Que problema estamos tentando resolver?
+● Dia 2 (Divergência): Que possíveis soluções para esses problemas podem existir?
+● Dia 3 (Convergência): Qual das nossas ideias pode ser mais adequada para testar hipóteses?
+● Dia 4 (Prototipagem): O que precisamos para iniciar o experimento?
+● Dia 5 (Validação): Qual é o melhor público para o experimento?
+​
+
+
+Além do Design Sprint, temos a metodologia do design Thinking. O design Thinking é um processo interativo e flexível e pode ser adaptado para sua equipe ou para fase do seu projeto (Figura 1). Para Pinheiro e Alt (2011, p.5) o Design Thinking é “[…] um novo jeito de pensar e abordar os problemas. Um modelo mental […]”. centrado no usuário. Tal fato corrobora com a visão proposta por Viana et al. (2012, p. 12), uma vez que os autores afirmam que o Design Thinking é: […] uma abordagem focada no ser humano, que vê na multidisciplinaridade, colaboração e tangibilização de pensamentos e processos, caminhos que levam a soluções inovadoras para negócios […]".
+
+
+O Instituto de Design Hasso-Plattner, da Universidade de Stanford, sugere 5 etapas para o Design Thinking (DAM; SIANG, 2017), sendo elas:
+
+I. Empatia: A etapa inicial do processo do Design Thinking é a compreensão do problema que está sendo resolvido. Isso inclui aprender mais sobre os usuários e suas necessidades.
+
+II. Definição do Problema: nesta fase, você estrutura todas as informações que recebeu na fase Empatia. Agora, é necessária uma análise aprofundada do público, sintetizar as informações importantes e definir as metas do projeto.
+
+III. Ideação: Agora estamos prontos para gerar ideias. Esta etapa exige uma abordagem criativa para solucionar os problemas coletados durante as etapas iniciais. Em outras palavras, “pensar fora da caixa”.
+IV. Prototipação: Chegou o momento de colocar em prática as ideias da etapa anterior.
+V. Teste: No estágio final, as soluções mais inovadoras serão testadas pela equipe e o seu público.
+
+
+Como um exercício, analise de que forma é possível encaixar o design sprint e Design Thinking nos seus processos de trabalho. Experimente aplicar o Design Sprint do Google em apenas 3 dias, selecionando apenas as dinâmicas que seu time está precisando mais. Defina com seu time de quanto em quanto tempo as validações com usuários acontecerão e já deixe marcado na agenda. Lembre-se que o resultado de um teste pode ajudar naquela dúvida do time se uma solução tem uma performance melhor ou pior que outra: validar é o caminho! Lembre-se que “a criatividade representa o processo de criação de ideias. De certo modo, é a inspiração que nos permite criar novas soluções” (HOHEMBERGER e ROSSI, 2020, p. 12).
+​
+
+
+Para ajudar a apresentar o design thinking para a equipe, menciona que, dentre os benefícios da metodologia, estão conhecer usuários e contextos, a oportunidade de aplicar pesquisas constantemente, validar antes de implementar, mais chances de inovação e mais integração do time.
+Espero que tenham gostado e até mais!
+
+Vida longa e próspera!
+​
+
+
+
+​
+
+Atividade Extra
+
+Recomendo que vocês façam a leitura do artigo “Design thinking no contexto do projeto editorial: contribuições instrumentais”, que pode ser facilmente encontrado no Google.
+Fonte: WOLOSZYN, M.; DICK, M. E.; GONÇALVES, B. S.; FIALHO, F. A. P. Design thinking no contexto do projeto editorial: contribuições instrumentais. DAPesquisa, Florianópolis, v. 13, n. 21, p. 059-075, 2018. DOI: 10.5965/1808312913212018059.
+
+ 
+
+Referência Bibliográfica
+
+BARROS NETO, W. Design Sprint como ferramenta de apoio ao empreendedorismo e à inovação. 2021. 135 f. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Goiás, Aparecida de Goiânia, 2021.
+HOHEMBERGER, Diones Antonio; ROSSI, Fábio Diniz. Guia Didático do Design Thinking: uma metodologia ativa para estimular a criatividade, a inovação e o empreendedorismo em sala de aula. Instituto Federal Farroupilha - IFFAR. Mestrado em Educação Profissional e Tecnológica - PROFEPT, 2020. Disponível em: http://educapes.capes.gov.br/handle/capes/572344. Acesso em 19 de nov. 2022. (acesso em 25/11/2022)
+KNAPP, Jake - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days. (2016). Londres: Transworld Publishers Ltd. LÖBACH, B. Design industrial (1976). Disponível em: https://www.academia.edu/6618866/Bernd_Lobach_Design_industrial_Bases_para_a_configuração_dos_produtos_industriais. Acesso em: 20 de nov. 2022. (acesso em 25/11/2022)
+PINHEIRO, Tennyson; ALT, Luis. Design Thinking Brasil: empatia, colaboração e experimentação para pessoas, negócios e sociedade. Rio de Janeiro: Elsevier, 2011.
+STANFORD D.SCHOOL. An Introduction to Design Thinking Process Guide. Disponível em https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf . Acesso em: 20 nov. 2022. (acesso em 05/12/2022)
+VIANNA, M. et al. Design thinking: inovação em negócios. Rio de Janeiro: MJV Press, 2012. 162p.

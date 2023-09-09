@@ -1,0 +1,109 @@
+Além de entender cada conceito da Experiência do usuário, é preciso identificar o que a identidade visual pode proporcionar e também ter o conhecimento um pouco mais aprofundado sobre a arquitetura da informação. Sendo assim, nesta aula, vamos analisar os seguintes tópicos:
+● Identidade visual
+● Arquitetura de informação
+● Usabilidade
+● Heurísticas
+● Acessibilidade
+
+A identidade visual proporciona o conceito de unidade para uma empresa, seus produtos ou serviços. O manual de identidade visual é o documento onde são registradas as orientações e regras a serem seguidas quando alguém vai criar algo visual para a empresa. (Ex: como aplicar a marca, em que cores, qual tamanho mínimo etc.). A arquitetura de informação trata da organização e classificação do conteúdo de um produto. Essa disciplina nos ajuda a trazer clareza para os usuários. Com ela conseguimos criar uma estrutura, ou mapa de informação, que possibilita aos outros encontrarem seus caminhos pessoais para o conhecimento.
+
+
+“A Arquitetura de Informação recentemente emergiu como uma importante metadisciplina preocupada com o design, a implementação e a manutenção de espaços digitais de informação para seres humanos acessarem, navegarem e usarem… O termo tem sido utilizado por vários anos para descrever o mix de competências requeridas para produzir recursos de informação que aumentam as habilidades humanas de localizar informação” (JOURNAL OF AMERICAN SOCIETY FOR INFORMATION SCIENCE & TECHNOLOGY apud MORROGH, 2003, pág. 107).
+
+
+
+A arquitetura da informação é uma construção tecnológica e cultural, cujas bases são uma combinação de esquemas de organização, navegação, desenho estrutural e outros elementos para tornar mais fácil para os usuários localizar e gerenciar informações. Assim, você deve realizar o seguinte questionamento: “O que os usuários fazem para encontrar as informações de que precisam?” Obviamente, precisamos levar em consideração que o usuário pode não estar ciente do que deseja.; de fato, alguns usuários tem uma vaga ideia, acha que sabe o que precisa. Nesse caso, precisamos planejar a estratégia de conteúdo em detalhes. Como? Em primeiro lugar, design participativo, isto é, uma abordagem que considera o usuário como estrutura fundamental na criação de um produto, serviço ou interface, aperfeiçoando o processo de concepção com base no feedback constante dos usuários.
+
+A ISO 9241-210 é a norma que conceitua o Design Centrado no Usuário como: “…uma abordagem para o desenvolvimento de sistemas interativos que visa tornar os sistemas mais utilizáveis e úteis, centrando-se nos usuários, suas necessidades e exigências, aplicando ergonomia e conhecimentos técnicos de usabilidade". A ISO 9241-210 fornece informações importantes para o processo de concepção de um design com foco nos usuários:
+
+1. É necessária uma integração multidisciplinar entre os membros do projeto, com ideias, perspectivas e habilidades distintas.
+2. O processo de desenvolvimento precisa de um diálogo entre todas as partes envolvidas.
+3. Todas as informações que o usuário vê devem ser estruturadas.
+4. O design visual e a usabilidade precisam ser projetados com base no contexto de uso. Isto é, todas as ações estão diretamente relacionadas aos produtos.
+5. Formar uma compreensão básica das principais funcionalidades do produto.
+6. O design precisa ser intuitivo, isto é, o mais simples possível.
+7. O usuário deve participar de todas as fases do projeto.
+8. O aperfeiçoamento do produto é realizado através da avaliação dos usuários.
+9. A arquitetura de informação é a chave para uma experiência de usuário positiva.
+
+Segundo Pinheiro e Alt (2011, p.64)“[…] a maneira de cada indivíduo perceber o mundo está diretamente conectada às experiências que já teve e às crenças e aos valores resultantes dessas experiências […]” (observe a figura 1). Nesse sentido, deve-se entender o que é arquitetura da informação, como ela afeta a experiência do usuário e o sucesso do produto e por que é tão importante dar a devida atenção a ela. Lembre-se que: ”[…] O cerne da inovação está no consumidor – é preciso atender às suas necessidades para efetivamente criar valor” (SIMANTOB e LIPPI, 2003, p. 13) e “[…] Inovação significa a criação de novos valores e novas satisfações para o cliente” (BARBIERI apud DRUCKER, 1989, p. 254).
+​
+
+
+O Usability.org comenta que a Usabilidade é a ciência que determina o grau de produtividade, satisfação e eficácia, que permite aos usuários atingir rapidamente seus objetivos. Além disso, a organização supracitada sugere alguns passos para testar a usabilidade através do Processo de design centrado no usuário (Figura 3). Sendo elas:
+1. Defina o contexto de uso: é necessário conhecer o público-alvo do produto ou serviço onde o produto vai ser utilizado e qual propósito de uso.
+2. Defina os requisitos: analise todos os elementos necessários para a criação da solução adequada ao contexto de uso.
+3. Definir as soluções do Design: nesta etapa, é sugerido o fracionamento do processo, criando etapas para a produção do design adequado a lista de elementos da etapa anterior. A abordagem “Playcentric Design” proposta por Fullerton (2014), pode ser adotada como a metodologia desta etapa, criando um design interativo, a proposta é baseada em 4 etapas: criar o protótipo baseado no briefing(ideias), testar, analisar e refinar o objeto (figura a seguir).
+​
+
+
+4. Avaliação das soluções: é necessário levar em consideração o feedback dos usuários como forma de avaliação das possíveis soluções propostas pelo design. Nesta etapa, é fundamental a participação do público alvo do projeto.
+
+
+
+A usabilidade é a medida do bom uso de um produto, para verificar se os objetivos são concluídos com eficácia, eficiência e satisfação. No entanto, precisamos avaliar a usabilidade, através dos critérios de avaliação de usabilidade:
+● Facilidade de aprendizado: avalia a facilidade de uso de produtos ou serviços;
+● Eficiência: avalia a rapidez com que o usuário consegue interagir e navegar por sistemas e resolver seus problemas;
+● Satisfação: avaliar o grau de satisfação dos usuários com produtos/serviços.
+
+Adão e Jacob (2011, p. 14) comentam que a Classificação dos métodos de usabilidade (Figura 4) “têm como objetivo oferecer uma visão acerca da usabilidade de um determinado sistema, num contexto genérico ou especificamente para uma aplicação, através da análise de resultados quantitativos e qualitativos”. É por isso que um alto nível de usabilidade é tão importante para promover produtos ou serviços.
+
+
+
+Como testar a usabilidade de um site? É importante compreender que os usuários retornarão a um produto, serviço, marca, ou até mesmo um recurso da Web, apenas, gostemos ou não, se o design ou profissional responsável pela usabilidade causar uma boa primeira impressão nos visitantes. Portanto, você deve:
+● Analisar a velocidade de carregamento do site.
+● Avaliar a conveniência da funcionalidade.
+● Realize uma análise de marketing e identifique os problemas existentes.
+● Analisar o design do site.
+● Organizar e analisar os dados coletados para melhorar o site.
+● Adaptar o site para dispositivos móveis.
+● Eliminar informações redundantes; e assim por diante.
+Para entender melhor por que é tão importante realizar uma análise de usabilidade, observamos as heurísticas de Jakob Nielsen (1995). As heurísticas de Nielsen são os principais fundamentos do design de interação, “que contemplam itens que buscam garantir, por exemplo, o feedback, a visibilidade do estado do sistema, o controle e a liberdade do usuário e a correspondência entre o sistema e o mundo real (PRATES e BARBOSA, 2003, p. 28), quais sejam” (COSTA, 2019, p. 15):
+Heurísticas de Nielsen
+
+
+
+Fonte: adaptado de Nielsen (2020, documento online).
+
+
+No trabalho proposto por Miranda (2014), é descrito heurísticas gerais do Design de Interação, focado em resolver os problemas identificados e melhorar a usabilidade no ecossistema móvel, as quais são apresentadas na tabela a seguir (COSTA, 2019):​
+
+
+Antes de criar algo para um produto, lembre-se de solicitar ao cliente o manual da marca da empresa. Dessa forma, você saberá que está criando algo que estará consistente com a identidade da empresa. Faça a análise de um produto digital que você gosta muito em relação à arquitetura de informação e se pergunte: O produto está bem organizado e classificado? Os rótulos são claros e compreensivos? A navegação é fácil de usar? Para uma boa usabilidade de um produto digital, siga as 10 heurísticas de Jakob Nielsen. Aplique em seus projetos frequentemente para treinar e memorizar as 10 regras.
+
+Para garantir que todos terão acesso ao seu produto, certifique-se de que a construção dele levará em conta características de acessibilidade na sua construção. Converse com a equipe técnica sobre isso desde o início do projeto.
+
+Espero que tenham gostado e até mais!
+
+Vida longa e próspera!
+
+
+
+​
+
+
+
+Atividade Extra
+
+Recomendo que vocês façam a leitura do artigo “Produtos midiáticos: a logomarca como identificação de usuários”, que pode ser facilmente encontrado no Google. Fonte: SILVA, L. L. da; SOUSA, R. P. L. de. Produtos midiáticos: a logomarca como identificação de usuários. DAPesquisa, Florianópolis, v. 16, p. 01-20, 2021. DOI: 10.5965/1808312915252021e0013.
+
+
+
+
+Referência Bibliográfica
+
+ABREU, Bruno. Como e por que garantir acessibilidade em aplicativos. (2019). Disponível em: https://blog.onedaytesting.com.br/acessibilidade-apps/ Acesso em: abril 2020. (acesso em 25/11/2022)
+ADÃO, Telmo; JACOB, João. Avaliação de usabilidade em ambientes virtuais. CNG: Conteúdos de nova geração, 2011.
+BARBIERI, João Carlos (org.). Organizações Inovadoras: textos e casos brasileiros. Rio de Janeiro: FGV, 2003.
+COSTA, Ruyther Parente da. Conjunto de heurísticas de usabilidade para avaliação de aplicações móveis em smartphones. 2019. xvii, 117 f., il. Dissertação (Mestrado em Informática) —Universidade de Brasília, Brasília, 2019.
+FULLERTON, T. Game Design Workshop: A Playcentric Approach to Creating Innovative Games. 3rd edition. AK Peters/CRC Press, 2014.
+GIACOMIN, J. What Is Human Centred Design? The Design Journal, v. 17, n. 4, p. 606–623, 2014. Disponível em: <http://www.tandfonline.com/doi/full/10.2752/175630614X14056185480186>. (acesso em 25/11/2022)
+MORROGH, E. Information Architecture: An Emerging 21st Century Profession. New Jersey: Prentice Hall, 2003.
+10 Usability Heuristics for User Interface Design (1994). Disponível em: https://www.nngroup.com/articles/ten-usability-heuristics/ Acesso em: maio 2020. (acesso em 25/11/2022)
+NIELSEN, Jacob. 10 Heurísticas de Usabilidade para Design de Interface de Usuário. NN/g Grupo Nielsen Norman, 2020. Disponível em:https://www.nngroup.com/articles/ten-usability-heuristics/#poster>. Acesso em: 18 de nov. 2022. (acesso em 25/11/2022)
+PINHEIRO, Tennyson; ALT, Luis. Design Thinking Brasil: empatia, colaboração e experimentação para pessoas, negócios e sociedade. Rio de Janeiro: Elsevier, 2011.
+
+PRATES, Raquel Oliveira e BARBOSA, Simone Diniz Junqueira. Avaliação de interfaces de usuário–conceitos e métodos. Em Jornada de Atualização em Informática do Congresso da Sociedade Brasileira de Computação, Capítulo, volume 6, página 28, 2003. http://www3.serg.inf.puc-rio.br/docs/JAI2003_PratesBarbosa_avaliacao.pdf. (acesso em 05/12/2022)
+
+ROBREDO, Jaime. Sobre arquitetura da informação. Revista Ibero-Americana de Ciência da Informação. (2010). 1. 10.26512/rici.v1.n2.2008.1209.
+SIMANTOB, Moysés; LIPPI, Roberta. Guia Valor Econômico de Inovação nas Empresas. São Paulo: Globo, 2003.

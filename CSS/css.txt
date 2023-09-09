@@ -1,0 +1,183 @@
+O CCS, é o acrônimo de Cascading Style Sheets, cuja tradução para português significa Folhas de estilo em cascata. É uma linguagem usada para formatar a apresentação de uma página em HTML no navegador. Os padrões desta linguagem são definidos pelo W3C, mesmo consórcio que define os padrões para a linguagem HTML.
+
+
+
+Objetivos da aula
+
+
+
+Resumo
+
+O que é o CSS e como é sua sintaxe
+
+O CCS, é o acrônimo de Cascading Style Sheets, cuja tradução para português significa Folhas de estilo em cascata. É uma linguagem usada para formatar a apresentação de uma página em HTML no navegador. Os padrões desta linguagem são definidos pelo W3C, mesmo consórcio que define os padrões para a linguagem HTML.
+
+O CSS foi criado em 1996 para remover da página HTML o estilo, que antes era atribuído por tags como <font> que eram um pesadelo para desenvolvedores pois se aplicavam a cada elemento HTML. Para resolver esse problema, o World Wide Web Consortium (W3C) criou o CSS, que economiza muito trabalho controlando o layout de várias páginas da web de uma só vez. O CSS atualmente está em sua terceira versão.
+
+A linguagem CSS é utilizada para definir propriedades de elementos HTML como cores, fontes, tamanhos de texto, espaçamento entre  elementos, posicionamento dos elementos, definir imagens de fundo ou cores de fundo e variações de exibição para diferentes dispositivos e tamanhos de tela. A palavra cascata significa que um estilo aplicado a um elemento pai também se aplicará a todos os elementos filhos dentro do pai.
+
+A sintaxe do CSS compõe-se de um seletor, abertura de chaves, declaração de propriedade e valor para esta, como no exemplo a seguir, onde atribui-se ao seletor p a fonte verdana e o tamanho de 20px.
+
+
+
+p {
+        font-family: verdana;
+        font-size: 20px;
+}
+
+
+
+
+
+Formas de adicionar CSS ao documento HTML
+
+Inline (em linha): Um estilo embutido usado para aplicar um estilo único para um único elemento. Deve se adicionar o atributo style ao elemento que ser quer alterar e dentro dele, definir as propriedades, como no exemplo a seguir
+
+<h1 style=“color:blue;text-align:center;”>Título</h1>
+<p style=“color:red;”>Parágrafo</p>
+
+Internal (interno): O código CSS é definido na própria página HTML, dentro do elemento <style>, dentro da seção <head>. Exemplo:
+
+<!DOCTYPE html>
+<html>
+<head>
+      <style>
+        body {
+                background-color: linen;
+        }
+        h1 {
+                color: maroon;
+                margin-left: 40px;
+        }
+      </style>
+</head>
+<body>
+      Corpo da página
+</body>
+
+External (externo): Um arquivo externo à página HTML que deve ser incluído via elemento <link>, dentro da seção <head>. no cabeçalho da página. Com uma folha de estilo externa, você pode alterar a aparência de um site inteiro alterando apenas um arquivo!  Exemplo:
+
+<!DOCTYPE html>
+<html>
+<head>
+      <link rel=“stylesheet” href=“mystyle.css”>
+</head>
+<body>
+
+                      Corpo da página
+                </body>
+                </html>
+
+Definir o conceito de CSS
+Discutir a estrutura básica do CSS
+Identificar forma de implementar CSS
+O seletor aponta para o elemento HTML que se deseja estilizar.
+O bloco de declaração contém uma ou mais declarações separadas por ponto e vírgula.
+Cada declaração inclui um nome de propriedade CSS e um valor, separados por dois pontos.
+Os blocos de declaração são cercados por chaves.
+Existem três formas de adicionar CSS a uma página HTML:
+Definir o conceito de CSS.
+Discutir a estrutura básica do CSS.
+Identificar forma de implementar CSS.
+​​
+
+Conteúdo Bônus
+Para descobrir o que é possível fazer com expertise em CCS, procure por “CSS awards” em seu buscador. Aparecerão alguns sites como o CSS Design Awards e o Awwwards, especializados na seleção de sites extremamente bem feitos com CSS, HTML, JS e afins.
+
+
+
+Referência Bibliográfica
+
+DEVELOPER. CSS. Disponível em: https://developer.mozilla.org/pt-BR/docs/Web/CSS Acesso em: 20 set. 2022.
+
+W3Schools is Powered by W3. CSS Tutorial. Disponível em: https://www.w3schools.com/css/default.asp Acesso em: 20 set. 2022.
+
+​
+
+Atividade Prática 7 - CSS: Entendendo sobre estilos
+
+Título da Prática: CSS: Entendendo sobre estilos
+
+Objetivos: Nesta atividade prática, você terá a oportunidade de consolidar seus conhecimentos sobre CSS (Cascading Style Sheets) aplicando diferentes estilos a uma página HTML.
+
+Materiais, Métodos e Ferramentas: Editor de texto (ex: Sublime Text, Notepad++, Atom, Visual Studio Code) e navegador web.
+
+Atividade Prática
+
+Instruções:
+
+1. Crie uma nova pasta em seu computador para este projeto. Nesta pasta, crie um arquivo HTML chamado “index.html” e um arquivo CSS chamado “styles.css”.
+
+2. No arquivo “index.html”, escreva a estrutura básica de uma página HTML. Adicione o elemento &lt;link&gt; na seção &lt;head&gt; para vincular a folha de estilo “styles.css” à sua página HTML. Seu código deve se parecer com isto:
+
+​
+
+
+​3. No corpo da página HTML (&lt;body&gt;), adicione os seguintes elementos: um cabeçalho &lt;h1&gt;, dois parágrafos &lt;p&gt; e uma lista não ordenada &lt;ul&gt; com três itens &lt;li&gt;. Atribua um id ou uma classe a cada elemento, para que você possa referenciá-los em sua folha de estilo CSS.
+
+4. Agora, abra seu arquivo “styles.css”. Selecione o elemento &lt;h1&gt; pelo seu id ou classe e defina a cor do texto e o alinhamento do texto. Você pode indicar as características da fonte, do tamanho e da cor do texto.
+
+5. Selecione os elementos &lt;p&gt; pelo id ou classe e defina a família da fonte, o tamanho da fonte e a cor do texto. Você pode indicar as características da fonte, do tamanho e da cor do texto.
+
+6. Selecione os elementos &lt;li&gt; pelo id ou classe e defina a cor do texto, o tipo de marcador da lista e o espaçamento entre os itens da lista.
+
+7. Finalmente, selecione o elemento &lt;body&gt; e defina uma cor ou imagem de fundo.
+
+8. Salve os arquivos e abra o arquivo “index.html” em seu navegador para ver o resultado.
+
+9. Experimente com diferentes propriedades e valores em sua folha de estilo CSS e observe como eles afetam a aparência de sua página HTML.
+
+Lembre-se: a ideia é que você coloque em prática o conteúdo aprendido na aula de hoje sobre CSS. Não hesite em revisar as anotações da aula ou buscar informações adicionais na internet se precisar. Boa sorte!
+
+Resolução
+
+Critérios de avaliação:
+
+1. Aplicação correta da sintaxe CSS.
+
+2. Uso de diferentes tipos de seletores.
+
+3. Uso de diferentes propriedades CSS.
+
+4. Estrutura e formatação apropriadas do código.
+
+5. O resultado final é uma página HTML bem formatada com a aplicação adequada dos estilos CSS.
+
+Resolução comentada:
+
+1. Criação dos arquivos:
+
+Crie uma nova pasta em seu ambiente de trabalho e dentro dela crie dois arquivos: “index.html” e “styles.css”.
+
+2. Estrutura básica do HTML:
+
+No arquivo “index.html”, escreva a estrutura básica de uma página HTML e vincule a folha de estilo “styles.css”. 
+
+​
+
+
+3. Adição de elementos HTML:
+
+No corpo da página HTML (&lt;body&gt;), adicione um cabeçalho &lt;h1&gt;, dois parágrafos &lt;p&gt; e uma lista não ordenada &lt;ul&gt; com três itens &lt;li&gt;. Atribua um id ou uma classe a cada elemento.
+
+
+4. Definição de estilos para o cabeçalho:
+
+No arquivo “styles.css”, selecione o elemento &lt;h1&gt; pelo seu id “main-header” e defina a cor do texto como azul e o alinhamento do texto como centralizado.
+
+
+5. Definição de estilos para os parágrafos:
+
+Selecione os elementos &lt;p&gt; pela classe “text” e defina a família da fonte como “Arial”, o tamanho da fonte como “14px” e a cor do texto como cinza.
+
+
+​6. Definição de estilos para a lista:
+Selecione os elementos &lt;li&gt; pelo id do elemento pai “main-list” e defina a cor do texto como preto, o tipo de marcador da lista como círculo e o espaçamento entre os itens da lista como “5px”.
+
+
+7. Definição de estilo para o corpo da página:
+Finalmente, selecione o elemento &lt;body&gt; e defina uma cor de fundo como cinza claro.
+
+
+8. Visualização dos resultados:
+Salve os arquivos e abra o arquivo “index.html” em seu navegador para ver

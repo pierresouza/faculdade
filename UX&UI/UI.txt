@@ -1,0 +1,80 @@
+"Uma confusão frequente é associar UX à UI (user interface ou interface do usuário). Projetar as telas e o layout, organizar os elementos e pensar os comportamentos destes são atividades técnicas, executadas por designers gráficos especializados em interfaces (UI designers)”.
+
+A interface do usuário, que em inglês significa user interface (UI), é o espaço onde os usuários irão interagir com aplicativos, sites etc. Essa interação pode incluir teclados e telas de exibição, por exemplo. Assim, nesta aula, vamos comentar sobre:
+
+● O designer e as entregas de UI
+● As partes de uma interface digital
+● Dispositivos e responsividade
+● O design system
+
+O design da interface é necessário não apenas para planejar a parte visual de um aplicativo ou site, mas um processo que garante que o produto tenha uma estética agradável e convenientemente um bom relacionamento com o público. Mas, antes de continuarmos, devemos esclarecer alguns pontos. Prates e Barbosa (2003, p. 2) comentam que “interação é o processo de comunicação entre pessoas e sistemas interativos”, enquanto “interface é o nome dado a toda a porção de um sistema com a qual um usuário mantém contato ao utilizá-lo, tanto ativa quanto passivamente” (Figura 1).
+
+
+
+O designer (UI) não entrega somente telas. Na sua lista de artefatos estão protótipos, designs, layouts, arquivos para front-end e clientes, apresentações, relatórios etc. Os elementos que usamos em um design de produto digital precisam estar em consistência visual. Na estrutura, temos cabeçalhos, rodapés e os miolos. Cores, fontes, padrões de títulos, links e textos que devem seguir um padrão para facilitar o entendimento do usuário.
+
+
+Por este motivo, é de suma importância compreender os fenômenos subjacentes associados à Interação Humano – Computador (IHC). Prates (2011, p.265) salienta que a “INTERAÇÃO HUMANO-COMPUTADOR (IHC) é uma área de estudo que está na interseção das ciências da computação e informação e ciências sociais e comportamentais e envolve todos os aspectos relacionados com a interação entre usuários e sistemas” (Figura 2). Se observamos, uma das principais características da IHC é sua adequação ao objeto que está sendo modelado. A Interaction Design Foundation (2015, documento online) lista as 5 principais características do Design de Interação:
+
+1. Ele muda situações moldando e implantando artefatos.
+2. Ele explora futuros possíveis.
+3. Ele enquadra o problema em paralelo com possíveis soluções.
+4. Requer pensar através de “ esboços ” e outras “representações tangíveis”
+5. Aborda aspectos instrumentais, técnicos, estéticos e éticos ao longo do processo (IDF, 2015, documento online).
+
+
+Os críticos mais sensatos e perspicazes, como Prates e Barbosa (2003) e Donald Norman (2008), notaram que o design visual é um termo que abrange muitas disciplinas. No entanto, o objetivo do design é encontrar uma solução única, criativa e personalizada para comunicar o que precisa ser comunidade. Mais especificamente, os profissionais da área precisam buscar uma harmonia genuína entre funcionalidade (interface) e a web como meio de transmitir ou comunicar as informações (hipertexto). Observe a figura a seguir, que nos introduz nessa temática; isto é, o design visual tem diferentes objetivos finais.
+
+
+Devemos sempre observar os dispositivos onde o produto será visualizado e pensar nas variações de tamanho e proporção que sua apresentação pode ter. Ele pode variar desde um layout fixo até o responsivo, que se adequa ao tamanho da tela.
+
+O design system é um conjunto de componentes usados de forma consistente em todo o produto para criar a sensação de um projeto único. Lembre-se de que designer é a pessoa que faz o layout, e o design é o projeto criado. Cada trabalho de design pode demandar um ou mais artefatos, dependendo do prazo, time e outros fatores que podem ser importantes. Pense em um médico que depois da consulta diz se o paciente vai fazer exames e quais eles devem ser. Talvez você precise entregar uma pesquisa e uma apresentação antes das telas com o design aplicado.
+
+Converse com a equipe técnica (front end e backend) para analisar as técnicas de responsividade ideais para o projeto. O design system também deve ser alinhado com a equipe técnica, para avaliar qual a melhor biblioteca de componentes para o projeto. Lembre-se das seguintes perguntas:
+● Quais elementos aparecem?
+● Esses elementos são importantes o suficiente para serem dominantes?
+● Há muitos elementos?
+● O que vem a seguir?
+● E depois?
+● Você consegue identificar rapidamente com o que o usuário interage?
+● Faz sentido implementar um determinado elemento (funcional) ou é uma decisão puramente visual?
+● O design é associado à estética?
+Para responder a tais questionamentos, você deve sentir as emoções apropriadas; além de se apoiar em algumas abordagens de Design (Figura 5) para tomar decisões e encontrar soluções adequadas para os problemas dos usuários.
+​
+
+
+Na reflexão teórica sobre a experiência do usuário e o design system, a verdade é que a interface do usuário é necessária para estabelecer um bom relacionamento com o visitante. Assim, devemos levar em consideração a dinâmica da experiência do usuário (Figura 5). Grilo (2019, p. 30), comenta que “o diagrama proposto na imagem engloba a interação do usuário com uma tecnologia, sendo esta mediada pela interface do produto”. Além disso, o autor supracitado afirma que “o sujeito é um indivíduo, com suas necessidades, desejos e expectativas, ou seja, sua subjetividade”.
+
+
+Há muitas vantagens em aplicar um design system. Caso seu time ainda desconheça essa ferramenta e queira saber mais, vale a pena contar quais times que a aplicam contam com mais economia de tempo, de energia e de pessoas, mais qualidade nas entregas e mais consistência na identidade visual dos seus projetos. Lembre-se que, em um sentido geral, interface é um termo amplo, no entanto, através da ótica de alguns pensadores, como Norman (2008), “IU” é a forma como o usuário e o programa interagem. Sendo assim, “IU” é:
+
+● Criar uma interface que leve em consideração as solicitações do usuário;
+● Tornar a interatividade agradável e intuitiva;
+● Projetar valores e significados com base na praticidade de clareza de uso;
+● Garantir que as emoções tenham um papel fundamental no design.
+
+Espero que tenham gostado e até mais!
+
+Vida longa e próspera!
+​
+
+​
+
+
+
+Atividade Extra
+
+Recomendo que vocês façam a leitura do artigo “Design para sustentabilidade: contribuições do design reflexivo para a longevidade emocional de produtos de moda”, que pode ser facilmente encontrado no Google. Fonte: ASSUNÇÃO, L. F.; JACQUES, J. J. de . Design para sustentabilidade: contribuições do design reflexivo para a longevidade emocional de produtos de moda. DAPesquisa, Florianópolis, v. 16, p. 01-19, 2021. DOI: 10.5965/18083129152021e0015.
+
+ 
+
+Referência Bibliográfica
+
+ALURA. UX e Usabilidade aplicados em mobile web. 2022. Disponível em: < https://www.caelum.com.br/apostila/apostila-ux-usabilidade-mobile-web.pdf>. Acesso em 21 de Nov 2022. (acesso em 24/11/2022)
+FONSECA, Kakau. Design System: design para todos (2018) Disponível em: https://brasil.uxdesign.cc/shared-design-system-design-para-todos-a158d399ea6d. Acesso em: abril 2020. (acesso em 24/11/2022)
+GRILO, André. Experiência do usuário em interfaces digitais. Natal: SEDIS-UFRN, 2019.
+IDF- INTERACTION DESIGN FOUNDATION. What is User Interface (UI) Design? (2019). Disponível em: interaction-design.org/literature/topics/ui-design. Acesso em abril 2020. (acesso em 24/11/2022)
+MAYHEW, Deborah J. Principles and Guidelines in Software User Interface Design. Englewood Cliffs, NJ: Prentice Hall, 1992.
+NN GROUP. Which UX Deliverables Are Most Commonly Created and Shared? (2015) Disponível em: https://www.nngroup.com/articles/common-ux-deliverables/. Acesso em: maio 2020. (acesso em 24/11/2022)
+NORMAN, Donald A. O Design Emocional: por que adoramos (ou detestamos) os objetos do dia-a-dia. Rio de Janeiro: Ed. ROCCO, 2008.
+PRATES, R. O.; BARBOSA, S. D. J. Avaliação de interfaces de usuário: conceitos e métodos. Anais da Jornada de Atualização em Informática, XIX Congresso da Sociedade Brasileira de Computação, Campinas, 2003.

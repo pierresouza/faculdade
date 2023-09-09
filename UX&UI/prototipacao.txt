@@ -1,0 +1,56 @@
+epois de testar as hipóteses, vem a fase de prototipação, que consiste em colocar as ideias para o mundo físico. Momento em que a ideia está em prática pela primeira vez, onde tudo é testado e pode ser aprimorado com uma maior agilidade até a entrega do produto final. Sendo assim, nesta aula, vamos analisar:
+
+● Alta e baixa fidelidade
+● Ferramentas de prototipação
+● A entrega do arquivo (handoff)
+● Nosso exemplo: o protótipo do site
+
+ 
+Segundo Viana et al., (2012, p 12) o Design Thinking é: […] Uma abordagem focada no ser humano, que vê na multidisciplinaridade, colaboração e tangibilização de pensamentos e processos, caminhos que levam a soluções inovadoras para negócios […]”. Assim, na hora de tomar a decisão, precisamos, de maneira mais eficaz, verificar as nossas ideias. Como? Simples, precisamos prototipar. A prototipação é uma atividade cíclica para responder a perguntas que ajudam a chegar à solução final. Nas fases iniciais de um projeto, devemos criar protótipos que sejam rápidos de fazer e testar (Figura 1).​
+
+
+O protótipo quando é analisado em relação a fidelidade ao layout pode ser considerado de alta fidelidade (tem o layout aplicado e são mais garantidos na fase de teste) ou de baixa fidelidade (apenas textos e elementos principais, sem o layout aplicado). Podemos usar muitas ferramentas de prototipação: papel e lápis, quadro branco, papelão, Power Point, Excel e outras (Figura 2).
+
+
+Serpro (2019, p. 9) comenta que “a fase da prototipação é o momento esperado de validar as ideias geradas de forma simples, rápida e barata, através da construção de protótipos materiais que servirão de modelos reais das soluções propostas pelos grupos”. Esta é uma fase experimental cujo objetivo, na prática, “deve colocar as ideias no papel, isto é, transformar a solução pensada na etapa anterior num protótipo real, de maneira que possa ser visualizado e validado” (HOHEMBERGER e ROSSI, 2020, p. 30).
+
+
+Segundo Aromaa, Leino e Viitaniemi (2014) os principais benefícios da prototipagem “são a redução do tempo gasto no desenvolvimento do produto, redução de custos, compartilhamento de conhecimento e participação do usuário”, e assim por diante (listados na Tabela 1).
+
+
+Tabela 1: Vantagens e benefícios da prototipagem categorizada por beneficiários.
+
+
+​Fonte: adaptado de Aromaa, Leino e Viitaniemi (2014, p. 8).
+
+O uso do design thinking permite resolver tarefas complexas, por isso a entrega dos assets (características do design) para o front end é chamada de handoff. Nesse arquivo estarão os estilos CSS, ou as informações do design como fontes, cores, ícones, imagens estilos, grid espaçamentos, alinhamentos, textos e até animações. Para fazer essa entrega é necessário escolher uma ferramenta de construção de design que possibilite ver esses tais assets, como o Figma e o XD, dentre outros. Como um exercício, acesse aqui o arquivo de design e handoff do Figma visto no exemplo nas aulas. Além disso, acesse aqui o protótipo do Figma do exemplo visto nas aulas.
+
+
+
+
+
+Atividade Extra
+
+Recomendo que vocês façam a leitura do artigo “Competência em informação e inovação social: a interdisciplinaridade em foco”, que pode ser facilmente encontrado no Google.
+
+Fonte: SANTOS, A. de S.; MAIA, L. C. G.; PINHEIRO, M. M. K. Competência em informação e inovação social: a interdisciplinaridade em foco. InCID: Revista de Ciência da Informação e Documentação, [S. l.], v. 13, n. 1, p. 27-46, 2022. DOI: 10.11606/issn.2178-2075.v13i1p27-46.
+
+
+
+Referência Bibliográfica
+
+CAO, JERRY. Wireframing & Prototyping: The Past, Present, and Future (2015). https://designmodo.com/wireframing-prototyping/. Acesso em set 2019. (acesso em 25/11/2022)
+
+EBAC. Figma, Sketch e Adobe XD: qual ferramenta é melhor, comparação (abril 2022). Disponível em: https://ebaconline.com.br/blog/figma-sketch-adobe-xd-comparacao. Acesso em: maio 2022. (acesso em 25/11/2022)
+
+HOHEMBERGER, Diones Antonio; ROSSI, Fábio Diniz. Guia Didático do Design Thinking: uma metodologia ativa para estimular a criatividade, a inovação e o empreendedorismo em sala de aula. Instituto Federal Farroupilha - IFFAR. Mestrado em Educação Profissional e Tecnológica - PROFEPT, 2020. Disponível em: http://educapes.capes.gov.br/handle/capes/572344. Acesso em 19 de nov. 2022. (acesso em 25/11/2022)
+
+PALHAIS, Catarina Bela Cardoso. Prototipagem: Uma abordagem ao processo de desenvolvimento de um produto. Universidade de Lisboa Faculdade de Belas-Artes. Mestrado em Design de Equipamento. Especialização em Design de Produto. Lisboa, 2015.
+
+SERPRO. Design Thinking. Disponível em: <http://www.serpro.gov.br/menu/noticias/noticias-2017/ebookconfiancacriativa.pdf>. Acesso em: 15 mai. 2019. (acesso em 25/11/2022)
+
+STANFORD D.SCHOOL. An Introduction to Design Thinking Process Guide. Acesso em ago 2022. Disponível em: https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf. (acesso em 25/11/2022)
+
+SUSANNA, Aromaa, Simo-Pekka Leino, Juhani Vitaniemi, Virtual prototyping in human-machine interaction design, VTT Technology, 185, ISBN 978-951-38-8156-6, Disponível em: <:http://www.vtt.fi/publications/index.jsp>. Acesso em 02 de jun de 2022. (acesso em 25/11/2022)
+
+VIANNA, M. et al. Design thinking: inovação em negócios. Rio de Janeiro: MJV Press, 2012. 162p.

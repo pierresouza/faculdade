@@ -1,0 +1,184 @@
+JavaScript é uma das linguagens mais importantes hoje. Está disponível em quase todos os dispositivos, sejam smartphones, televisores ou, graças ao NodeJS, agora também na área de servidores.
+
+JavaScript é uma plataforma criada pela Netscape que permite a programação orientada a objetos. Ele permite a criação de aplicativos e documentos que podem ser executados na Internet. Também oferece opções para interagir em páginas web e para ler, escrever ou alterá-los. Além disso, possui operadores poderosos para dar mais dinamismo aos nossos códigos.
+
+
+
+Objetivos da aula
+
+Definir os tipos de dados e de variáveis em Javascript
+Demonstrar os principais operadores da linguagem Javascript.
+Explicar como trabalhar variáveis e operadores em uma rotina Javascript.
+
+
+Resumo
+
+Operadores
+
+Operadores são caracteres ou cadeias de caracteres que ligam dois objetos e processam para ter um resultado. Existem vários grupos de operadores:
+
+Operadores aritméticos
+
+
+Exemplo:
+
+a = 5 + 4; // a é 9 
+
+b = a-3; // b é 9-3, então 6 
+
+c = a * b; // c é 9 vezes 6, então 54 
+
+d = c / 4,5; // d é 54 divide 4,5, então 12 
+
+e = d% 5; // e é o resto de 12 dividido por 5, então 2 (5 + 5 + 2) 
+
+
+
+Operadores de string
+
+Os operadores de string só podem ser usados com strings (texto). O +operador junta duas strings. Ao contrário, o +=operador é usado para anexar uma string a uma existente. Exemplo:
+
+Op.  Descrição                        
+
++      Une duas strings                     
+
++ =   Acrescenta outro a uma string  
+
+Exemplo:
+
+a = ‘ABC’; 
+
+b = ‘DEF’; 
+
+c = ‘GHI’; 
+
+       
+
+d = a + b; 
+
+// d é ‘ABC’ mais ‘DEF’, então ‘ABCDEF’ 
+
+e = ‘ABC’ + b; 
+
+// e é ‘ABCDEF’ 
+
+       
+
+f = e; 
+
+f + = c; 
+
+// c, ou seja, ‘GHI’, é anexado a f. 
+
+// obtemos f com ‘ABCDEFGHI’ 
+
+
+
+Operadores lógicos
+
+
+Operadores lógicos são usados para formular condições. Uma condição sempre consiste em dois lados que se baseiam na igualdade ou na desigualdade. Pode ser true ou false. Exemplo:
+
+a = 3; b = 5; 
+
+       
+
+if (a == b) {/…/} 
+
+// se a é igual a b, a afirmação é verdadeira 
+
+       
+
+if (a! = b) {/…/} 
+
+// se a não é igual para b, a afirmação é verdadeira 
+
+       
+
+se (a == 3 && b! = 4) {/…/} 
+
+// se a é 3 AND b não é 4, então verdadeiro 
+
+       
+
+se (a == 4 || b = 5) {/…/} 
+
+// se a for 4 OU b for 5, verdadeiro 
+
+       
+
+se (a <5) {/…/} 
+
+// se a for menor que 5, verdade
+
+
+
+Operadores de atribuição
+
+Operadores de atribuição são usados​​ para indicar valores. 
+
+
+Exemplo:
+
+a = 3; 
+
+a + = 4; // = 7 
+
+a - = 3; // = 4 
+
+a * = 5; // = 20 
+
+a / = 4; // = 5 
+
+
+
+Conteúdo Bônus
+Leia os artigo a seguir:
+Operadores Lógicos AND ( && ), OR ( || ) e NOT ( ! ) em JavaScript. JavaScript Progressivo, 2018.
+JavaScript - Diferença entre =, == e ===. Macoratti.Net, 2018.
+
+
+
+Referência Bibliográfica
+
+Duckett J. JavaScript de alto impacto . Alta Books 2015.
+
+Castro R. JavaScript: guia prático. Alta Books 2019.
+
+Freeman Eric. Use a cabeça! JavaScript. Alta Books 2015
+
+​
+
+
+
+
+
+Atividade Prática 3 - Programando com JavaScript: primeiros comando
+
+Título da Prática: Usando operadores e lógica
+
+Objetivos: Compreender os tipos de dados e operadores
+
+Materiais, Métodos e Ferramentas: Para realizar esta prática vamos utilizar o Visual Studio Code
+
+
+
+Prática
+
+Você foi contratado como desenvolvedor(a) para criar um programa que realize a verificação de elegibilidade de candidatos para uma vaga de emprego em uma empresa. Sua tarefa é implementar um código em JavaScript que, com base em critérios específicos, determine se um candidato atende aos requisitos necessários para a vaga.
+
+O programa receberá informações sobre cada candidato, incluindo idade, experiência em anos, nível de educação e se o candidato possui um certificado. Os critérios de elegibilidade são definidos previamente pela empresa e devem ser considerados para a tomada de decisão.
+
+Os critérios de elegibilidade incluem idade mínima, número mínimo de anos de experiência, nível mínimo de educação e a obrigatoriedade ou não de um certificado. O programa deve verificar se o candidato atende a todos esses critérios e, com base nessa verificação, fornecer um resultado indicando se o candidato é elegível para a vaga.
+
+O código deve utilizar operadores aritméticos e lógicos para realizar as comparações necessárias. Além disso, o resultado da elegibilidade deve ser exibido de forma clara e compreensível para o usuário.
+
+Sua solução precisa ser eficiente, confiável e capaz de lidar com diferentes cenários de candidatos e critérios de elegibilidade. Certifique-se de testar seu código com diferentes conjuntos de dados para garantir sua correta funcionalidade.
+
+Agora, mãos à obra! Desenvolva o programa em JavaScript para realizar a verificação de elegibilidade dos candidatos e auxiliar a empresa no processo seletivo.
+
+
+
+Resolução
+
+
