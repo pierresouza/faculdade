@@ -27,3 +27,17 @@ function clearCart() {
   shoppingCart.length = 0;
   console.log("Your shopping cart has been cleared");
 }
+
+addItemToCart("Tênis");
+addItemToCart("blusa");
+addItemToCart("short");
+
+viewCart();
+
+removeItemFromCart("blusa");
+
+viewCart();
+
+clearCart();
+
+viewCart();

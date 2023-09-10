@@ -1,0 +1,52 @@
+Testar um produto ou um serviço é uma das fases mais importantes, momento que exige uma entrega intensa e rápida, justamente para identificar e ajustar os problemas encontrados. Nessa fase é preciso coletar as informações, reações e opiniões a respeito do contato com o protótipo. Sendo assim, nesta aula, vamos analisar:
+
+● Por que fazer testes com usuários
+● Teste de usabilidade
+● Nosso exemplo: testando com usuários
+● E depois dos testes?
+Os testes com usuários devem ser feitos para que o time possa errar rápido, para errar mais barato. Não queremos o erro, queremos o correto. Mas com testes com usuários podemos descobrir se nossa meta de negócio está no caminho certo.
+Teste de software é uma coisa, teste com usuários finais, representantes de usuários reais, é outra coisa. Ambos são importantes e acham coisas diferentes. Dentre os benefícios de testes com usuários, estão: descobrir problemas o quanto antes; gastar menos com retrabalho no desenvolvimento, ter mais segurança no que será lançado e se organizar como equipe para mudanças futuras.
+
+ 
+“Na fase de teste, as soluções devem ser aperfeiçoadas e refinadas até que todos os aspectos problemáticos tenham sido removidos ou aperfeiçoados, até que não haja mais valores a serem agregados dentro do escopo e do contexto do projeto”. (SERPRO, 2019, p. 10).
+
+ 
+Pode haver no mercado de trabalho muita resistência a fazer testes, pois há pessoas que acreditam que ele custa caro e que ele é demorado. Mas aplicá-lo custa mais barato que arrumar problemas depois de lançado. E leva menos tempo do que consertar erros. Hohemberger e Rossi (2020, p. 33), comentam que “a matriz de feedback é uma ferramenta indispensável na avaliação do protótipo. Permite que a equipe desenvolvedora da solução obtenha o retorno das pessoas / usuários, o que é importante para detectar erros e realizar correções permitindo que haja uma evolução da solução antes da entrega final”.
+​
+
+
+Para pesquisas qualitativas, a quantidade ideal de testes é de 3 a 5 usuários. A partir de 5 testes veremos que as respostas passam a ser muito semelhantes e não temos muita novidade. Se você tiver mais de uma persona, lembre-se que são 3 a 5 de cada persona; além de recorrer às características dos três pilares do Design Thinking (Figura 2).
+
+
+Os testes de usabilidade servem para testar uma solução em relação a sua eficácia, eficiência e satisfação (NORMAN, 2008; PICANÇO, 2017). São aplicados sempre com usuários reais representativos da sua persona. Tenha sempre um roteiro com os passos e as perguntas que quer fazer. De preferência, garanta que terá uma pessoa fazendo anotações enquanto você aplica o teste.
+No início do teste, apresente-se, diga como será o teste e peça autorização para gravar. Faça perguntas a respeito do usuário e do tema e só depois abra a tela inicial, explique a tarefa que ele deve executar e peça para dizer o que está pensando.
+Antes do início do teste, comece a contagem do tempo e tome notas. Ao término da tarefa, se for o caso, pergunte algo para complementar. Agradeça ao usuário pela participação. Após sair do local da entrevista, converse com quem mais acompanhou o teste e anote tudo.
+Depois dos testes, atualize o documento com as datas, personas, tipo de teste, registro de usuários e ideias. Faça uma reunião de alinhamento do que foi anotado durante as atividades para contar para toda a equipe. E dependendo dos achados, haverá atividades para diferentes profissionais da equipe (UX writing, Front-end, Desenvolvedor, área de negócio, etc).
+​
+
+
+Quando devemos aplicar os testes com usuários? Sempre! E em qualquer momento! Na fase de pesquisas, antes do lançamento, durante o uso e de forma recorrente, para garantir que as mudanças de comportamento de usuários serão consideradas no seu produto digital.
+
+Espero que tenham gostado e até mais!
+
+Vida longa e próspera!
+
+
+​
+
+Atividade Extra
+
+Recomendo que vocês façam a leitura do artigo “Ciência da informação e usabilidade: relações conceituais fundamentais”, que pode ser facilmente encontrado no Google.
+Fonte: MACHADO, R. B.; VIANNA, W. B.; MATIAS, M. Ciência da informação e usabilidade: relações conceituais fundamentais. InCID: Revista de Ciência da Informação e Documentação, [S. l.], v. 10, n. 2, p. 4-19, 2019. DOI: 10.11606/issn.2178-2075.v10i2p4-19.
+
+
+
+Referência Bibliográfica
+
+HOHEMBERGER, Diones Antonio; ROSSI, Fábio Diniz. Guia Didático do Design Thinking: uma metodologia ativa para estimular a criatividade, a inovação e o empreendedorismo em sala de aula. Instituto Federal Farroupilha - IFFAR. Mestrado em Educação Profissional e Tecnológica - PROFEPT, 2020. Disponível em: http://educapes.capes.gov.br/handle/capes/572344. Acesso em 19 de nov. 2022. (acesso em 25/11/2022)
+NORMAN, Donald A. O Design Emocional: por que adoramos (ou detestamos) os objetos do dia-a-dia. Rio de Janeiro: Ed. ROCCO, 2008.
+PICANÇO, Caroline Tavares. Uma metodologia para melhoria de processos baseada em design thinking. 2017. 170f. Dissertação (Mestrado em Ciência da Computação do Centro de Informática), Universidade Federal de Pernambuco, Recife, 2017.
+STANFORD D. SCHOOL. An Introduction to Design Thinking Process Guide. Disponível em https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf. Acesso em: ago 2019. (acesso em 05/12/2022)
+SERPRO. Design Thinking. Disponível em: <http://www.serpro.gov.br/menu/noticias/noticias-2017/ebookconfiancacriativa.pdf>. Acesso em: 15 mai. 2019. (acesso em 25/11/2022)
+VOLPATO, Elisa. [palestra] Pesquisa com usuários para startups (2017). Disponível em: https://medium.com/testr/palestra-pesquisa-com-usuários-para-startups-63b8435bc058. Acesso em: abril 2020. (acesso em 25/11/2022)
+VOLPATO, Elisa. Teste de usabilidade: o que é e para que serve? (2014) Disponível em: https://brasil.uxdesign.cc/teste-de-usabilidade-o-que-é-e-para-que-serve-de3622e4298b. Acesso em: abril 2020. (acesso em 25/11/2022)

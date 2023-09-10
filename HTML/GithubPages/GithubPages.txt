@@ -1,0 +1,76 @@
+Olá! Bem-vindo de volta. Agora vamos aprender como publicar um site usando o GitHub Pages. Vou detalhar o processo passo a passo para você seguir.
+
+Passo 1: Crie uma conta no GitHub (se você já tem uma conta pule este passo)
+
+Abra o navegador de sua preferência e na barra de pesquisa, digite “GitHub”. Clique no primeiro resultado que deve ser “GitHub.com”. No site do GitHub, você verá duas opções: “Sign in” (entrar) e “Sign up” (cadastrar). Como você está criando uma conta, clique em “Sign up”. Entre com o seu e-mail no campo solicitado e clique em “Continue”.Na próxima tela, você será solicitado a criar uma senha. Utilize uma senha segura e única. Se você usar um gerenciador de senhas (chaveiro), pode gerar uma senha através dele. Após criar sua senha, clique em “Continue”. Agora você precisa escolher um nome de usuário. Este é um passo importante, pois seu nome de usuário é como você será reconhecido na plataforma do GitHub. Escolha um nome único e memorável. Após escolher o nome de usuário, clique em “Continue”. Em seguida, você pode escolher se deseja receber e-mails de atualizações e anúncios do GitHub. Resolver o captcha para confirmar que você não é um robô. Clique em “Create account” (Criar conta). Você receberá um código de verificação no e-mail que utilizou para se registrar. Copie esse código e cole-o na página de verificação do GitHub. Após a verificação, você será bem-vindo ao GitHub!
+
+Passo 2: Personalize sua conta no GitHub (opcional)
+
+Você pode escolher pular a personalização clicando em “Skip personalization” ou pode seguir as etapas para fornecer mais informações sobre você e seus interesses. Se você escolher personalizar, você pode inserir informações como sua idade, ocupação, e objetivos na plataforma. Após finalizar a personalização, você será informado sobre os recursos gratuitos disponíveis para você no GitHub, como repositórios ilimitados, integração contínua e desenvolvimento contínuo, armazenamento e suporte da comunidade.
+
+Passo 3: Explore o GitHub
+
+Agora que sua conta está criada, você pode personalizar seu feed adicionando tópicos de interesse, como CSS, HTML, JavaScript, entre outros. O GitHub irá sugerir repositórios baseado em seus interesses, e você pode visitá-los, dar “like”, e explorar mais.
+
+Isso conclui a etapa de criação de conta no GitHub. Nos passos a seguit, você aprenderá a criar um repositório e a publicar seu site usando o GitHub Pages.
+
+Passo 4: Criar um repositório no GitHub
+
+Faça login em sua conta do GitHub. Clique na aba “Repositories”. Clique em “New” para criar um novo repositório. Nomeie o repositório. No exemplo, o repositório foi nomeado como “Portfólio”. Insira uma descrição (opcional, mas recomendado). Escolha se o repositório será (a) público, pode ser visto e contribuído por qualquer pessoa; ou (b) privado, só pode ser acessado por pessoas a quem você conceder permissão. Clique em “Create repository” para finalizar a criação do repositório.
+
+Passo 5: Adicionar um repositório remoto ao seu projeto local
+
+Abra o projeto no seu editor de código, neste caso, o Visual Studio Code (VSCode). Abra um terminal no VSCode. Use o comando git remote add origin [URL do seu repositório] para adicionar o repositório GitHub que você acabou de criar como o repositório remoto do seu projeto. Isso informa ao Git onde está o repositório remoto para o seu projeto.
+
+Passo 6: Fazer o push do projeto local para o repositório no GitHub
+
+Use o comando git push origin main para fazer o push do seu projeto para o GitHub. Isso “empurra” o conteúdo do seu projeto local para a plataforma GitHub. Você precisa se autenticar novamente para confirmar o push.
+
+Passo 7: Verificar o repositório no GitHub
+
+Volte para a página do GitHub e atualize a página do repositório. Você deve ver todos os arquivos do seu projeto agora no repositório GitHub. Você pode editar o arquivo README para adicionar mais detalhes sobre o projeto se desejar.
+
+Agora vamos entender o que é o GitHub Pages, que utilizaremos para hospedagem do site.
+
+O GitHub Pages é um serviço gratuito oferecido pelo GitHub que permite hospedar sites estáticos diretamente do seu repositório no GitHub. Sites estáticos são aqueles que consistem apenas de front-end (HTML, CSS e JavaScript) e não possuem back-end.
+
+Existem algumas maneiras de hospedar um site no GitHub Pages:
+
+(a) A partir de um repositório existente: Você pode hospedar um site estático diretamente de um repositório existente no GitHub. O site do projeto Bootstrap é um exemplo disso.
+
+(b) Usando um template Jekyll**: O GitHub também oferece a opção de criar um site a partir de um template Jekyll. Jekyll é um gerador de sites estáticos simples, que permite criar sites a partir de texto em formato simples.
+
+Aqui, escolhemos anteriormente, um template de Bootstrap, que foi baixado e carregado em um repositório chamado “portfolio”. Agora, siga os passos a seguir para ativar o GitHub Pages para o seu repositório.
+
+Passo 8: Preparação do projeto
+
+Certifique-se de que o projeto que você deseja publicar está armazenado em um repositório no GitHub. Lembre-se, o site deve ser composto por arquivos HTML, CSS e JavaScript, sendo que o arquivo principal deve ser denominado index.html.
+
+Passo 9: Acesso e configurações do repositório
+
+Faça login na sua conta do GitHub e navegue até o repositório que contém o site que você deseja publicar. Dentro do repositório, clique no botão Settings que está localizado no canto superior direito da página. No menu à esquerda, clique na opção Pages.
+
+Passo 10: Publicação do repositório: Na seção GitHub Pages, você verá uma opção chamada Source. Aqui, você precisa selecionar qual branch do seu repositório será usada para publicar o seu site. Se você tem apenas uma branch (a main), então selecione essa. Após selecionar a branch, escolha a opção /(root) para publicar a partir do diretório raiz do seu site. Clique no botão Save para salvar suas configurações. Após clicar neste botão, o GitHub começará a publicar o seu site. Isso pode levar alguns minutos.
+
+Passo 11: Acesso o site: Uma vez que o site tenha sido publicado, você verá uma mensagem verde dizendo “Your site is published at” seguido pelo URL onde o site está hospedado. O padrão para o URL será https://<seu-nome-de-usuário>.github.io/<nome-do-repositório>/. Agora você pode compartilhar esse URL com qualquer pessoa para dar a ela acesso ao seu site.
+
+Observações adicionais: Se você desejar ter um URL mais amigável, pode comprar um domínio e adicionar esse domínio personalizado na seção de configurações do GitHub Pages, no campo Custom domain.
+
+Lembre-se de que todas as alterações que você fizer na branch que escolheu para o GitHub Pages serão refletidas no seu site publicado após um curto período de tempo. Portanto, se você atualizar seu site, as mudanças serão publicadas automaticamente.
+
+Por fim, o GitHub Pages é uma ótima ferramenta para hospedar sites estáticos, mas não é adequado para sites dinâmicos ou aplicativos da web que requerem um servidor de back-end.
+
+
+
+Conteúdo Bônus
+
+
+Se você deseja ter um domínio customizado, considere adiquirir pela plataforma registro.br que é o departamento do NIC.br responsável pelas atividades de registro e manutenção dos nomes de domínios que usam o “.br”.
+
+O Núcleo de Informação e Coordenação do Ponto BR (NIC.br) foi criado para implementar as decisões e os projetos do Comitê Gestor da Internet no Brasil - CGI.br, que é o responsável por coordenar e integrar as iniciativas e serviços da Internet no País.
+
+
+
+Referências
+
+TSITOARA, Mariot. Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer. 1. ed. Apress, 2019.

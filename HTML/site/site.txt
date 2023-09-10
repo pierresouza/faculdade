@@ -1,0 +1,135 @@
+Passo 1: Introdução aos Templates
+
+Até agora, aprendemos a construir um site do zero, adicionando componentes e seções individualmente. No entanto, nem sempre precisamos fazer isso, pois existem modelos de sites prontos na internet chamados de templates. Neste módulo, aprenderemos a encontrar, baixar e personalizar esses templates.
+
+Passo 2: Encontrar e Baixar Templates
+
+Aprenderemos onde encontrar e baixar templates de sites em Bootstrap. Para isso, abra uma nova aba em seu navegador e digite “Bootstrap Templates” na barra de pesquisa. Você também pode procurar por “Bootstrap Free Templates” se estiver procurando por opções gratuitas. Existem templates gratuitos e pagos disponíveis, sendo que os pagos geralmente oferecem mais funcionalidades e suporte.
+
+Passo 3: Selecionar um Template
+
+Ao selecionar um template, é importante considerar o propósito do site. Por exemplo, se você precisa de um site para um dashboard, procure por um template nesse sentido. Neste caso, estamos procurando por um template de portfólio.
+
+Passo 4: Analisar o Template
+
+Ao analisar um template, observe se ele é gratuito (marcado como “free”) ou pago (marcado como “pro”). Também verifique o número de downloads para ter uma ideia de sua popularidade. Além disso, é importante verificar a licença do template para garantir que você possa usá-lo conforme necessário.
+
+Passo 5: Baixar o Template
+
+Depois de selecionar um template, você pode baixá-lo clicando no botão “Free Download” ou “Download”. Certifique-se de salvar o arquivo em um local de fácil acesso em seu computador.
+
+Passo 6: Extrair o Template
+
+O template será baixado como um arquivo zip. Para acessar os arquivos, você precisará extrair o arquivo zip. Você pode fazer isso clicando com o botão direito no arquivo e selecionando “Extrair”.
+
+Passo 7: Visualizar o Template
+
+Depois de extrair o arquivo, você pode visualizar o template abrindo o arquivo HTML em seu navegador.
+
+Passo 8: Abrindo o Projeto no VS Code
+
+Abra o Visual Studio Code (VS Code). Vá até o menu ‘File’ (ou ‘Arquivo’ se o VS Code estiver em português). Clique em ‘Open Folder’ (ou ‘Abrir Pasta’). Navegue no seu computador até onde o projeto está localizado e clique em ‘Abrir’.
+
+Passo 9: Explorando a Estrutura do Projeto
+
+O projeto possui várias pastas. Comece explorando a primeira pasta chamada ‘Assets’. Esta pasta geralmente contém tudo o que é necessário para o site funcionar. Navegue pelas subpastas, incluindo ‘CSS’, ‘IMG’, ‘JS’, ‘SCSS’ e ‘Vendor’. Familiarize-se com o conteúdo de cada uma. Encontre e abra o arquivo ‘Index’. Esse é o arquivo onde está todo o código desse projeto.
+
+Passo 10: Modificando as Imagens
+
+No seu navegador, abra o template. Encontre a imagem que deseja alterar, clique com o botão direito nela e escolha ‘abrir a imagem em uma nova aba’. Anote o caminho da imagem no seu computador e o nome da imagem. Substitua a imagem selecionada por uma sua. Copie a imagem desejada e cole-a na pasta indicada pela localização anotada. Renomeie a nova imagem para ter o mesmo nome que a imagem que você está substituindo. Volte ao navegador e atualize a página (Ctrl F5 no Firefox, Shift F5 no Chrome). Você deverá ver a nova imagem em vez da antiga.
+
+Passo 11: Alterando o Nome e a Descrição
+
+Volte para o VS Code e abra o arquivo ‘Index’. Pressione Ctrl F e procure pelo nome que você deseja substituir. Pressione Ctrl H para abrir a ferramenta ‘Substituir’. No campo ‘Substituir’, escreva seu próprio nome e pressione ‘Enter’ para substituir todas as instâncias do nome antigo. Repita o processo para substituir a descrição (por exemplo, “I am a developer” por “Eu sou um desenvolvedor”). Salve suas alterações e atualize a página do navegador para verificar os resultados.
+
+Passo 12: Personalizando o Projeto
+
+Continue navegando pelo código no arquivo ‘Index’ e faça as alterações necessárias para personalizar o template de acordo com suas necessidades. Ao final de cada sessão de edição, lembre-se de salvar suas alterações e atualizar a página do navegador para verificar os resultados.
+
+Passo 13: Adicionando Componentes a um Template Existente
+
+Às vezes, um cliente pode escolher um template, mas deseja adicionar componentes que não estão presentes no template original. Neste caso, você pode criar esses componentes ou procurar exemplos na internet para adicionar ao seu projeto.
+
+Passo 14: Adicionando uma Seção de Preços
+
+Suponha que você está criando um portfólio para um cliente que deseja adicionar uma seção de preços após a seção de serviços. Em vez de desenvolver essa seção do zero, você pode procurar exemplos na internet. Uma boa fonte para começar é o site do Bootstrap, onde você pode encontrar exemplos de componentes.
+
+Passo 15: Copiando o Código do Exemplo
+
+No site do Bootstrap, você pode encontrar uma página de preços que pode ser uma boa solução para o seu caso. Para usar esse código no seu projeto, pressione F12 para abrir o console do navegador. Use a ferramenta de seleção para selecionar a seção que deseja copiar. Clique com o botão direito e escolha “Copiar -> HTML interno”.
+
+Passo 16: Colando o Código no Seu Projeto
+
+Volte para o seu código e procure a seção de serviços. Cole o código copiado dentro dessa seção, imediatamente abaixo dos serviços existentes.
+
+Passo 17: Adicionando Links aos Botões
+
+Agora, você pode querer adicionar links aos botões na seção de preços. Por exemplo, se você não tem uma página de checkout, pode fazer com que o botão “Sign up for free” leve o usuário à seção de contato. Para fazer isso, substitua o elemento do botão por uma tag “a” com o atributo href apontando para a seção de contato.
+
+Passo 18: Incorporando o Google Maps
+
+Por fim, você pode querer adicionar um mapa do Google Maps à seção de contato. Para fazer isso, vá ao Google Maps e procure a localização desejada. Clique em “Compartilhar” e escolha “Incorporar um mapa”. Copie o código HTML fornecido.
+
+Passo 19: Adicionando o Mapa ao Seu Projeto
+
+Volte para o seu código e procure a seção de contato. Você verá que já existe um iframe do Google Maps. Cole o código copiado abaixo deste iframe e copie as características do iframe original para o novo.
+
+Passo 20: Personalizando o Template
+
+Agora, você pode começar a personalizar o template de acordo com as necessidades do seu cliente. Isso pode incluir a tradução do texto, a substituição das redes sociais, a adição de informações sobre você ou o cliente, a adição ou remoção de seções, e assim por diante.
+
+
+
+
+Conteúdo Bônus
+
+Se você quiser inspiração para seu site, procure no seu buscador por “awwwards”. Lá você encontra vários sites com design e estética impressionantes. 
+
+
+
+Referências
+
+FRAIN, Ben. Responsive Web Design with HTML5 and CSS. 4. ed. Birmingham: Packt Publishing, 2022​​.
+
+DUCKETT, Jon. HTML and CSS: Design and Build Websites. ed. Indianopolis: John Wiley & Sons, 2021​.
+
+FOREMAN, Daniel. Bootstrap 5 Foundations 2. ed. Foreman Technology LTD
+
+
+
+
+Atividade Prática 12 - Site com base em um modelo (template)
+
+Título da Prática: Criação e Personalização de um Site com Bootstrap usando Templates Prontos
+Objetivos: Familiarizar os alunos com a utilização de templates do Bootstrap, facilitando a criação de sites complexos em um curto período de tempo. Os alunos irão encontrar, baixar e personalizar um template, adaptando-o às suas necessidades e preferências.
+Materiais, Métodos e Ferramentas: Computador com acesso à internet, navegador web atualizado (preferencialmente Google Chrome ou Mozilla Firefox), Visual Studio Code (VS Code) instalado, conhecimento básico em HTML, CSS e Bootstrap.
+
+Atividade Prática
+
+Utilizando o conteúdo abordado na aula e os passos abaixo, você irá criar e personalizar um site usando um template do Bootstrap. Sua tarefa é selecionar um template de portfólio, modificá-lo e personalizá-lo de acordo com suas preferências ou para um cliente fictício.
+
+1. Pesquise e selecione um template de Bootstrap gratuito adequado para um portfólio.
+2. Baixe e extraia o template em um local de fácil acesso em seu computador.
+3. Abra o template no seu navegador para visualizá-lo e explore a estrutura do projeto no VS Code.
+4. Faça as alterações necessárias no template, incluindo a substituição de imagens e textos.
+5. Personalize o projeto de acordo com suas necessidades.
+6. Adicione um componente que não está presente no template original. Você pode escolher qualquer componente do Bootstrap para essa tarefa.
+7. Adicione uma seção de preços logo após a seção de serviços.
+8. Incorpore um mapa do Google Maps à seção de contato.
+9. Personalize ainda mais o template, traduzindo textos, substituindo links de redes sociais, adicionando informações pessoais ou do cliente fictício, adicionando ou removendo seções, etc.
+
+Resolução Comentada:
+
+Por se tratar de uma atividade prática e criativa, cada aluno pode apresentar uma solução única. A resolução a seguir é um exemplo genérico de como essa tarefa pode ser realizada.
+
+1. O aluno realiza uma pesquisa na internet e encontra um template gratuito de portfólio do Bootstrap que se encaixe em suas necessidades ou do cliente fictício.
+2. O template é baixado e extraído em um local de fácil acesso no computador do aluno.
+3. Usando o navegador, o aluno abre o arquivo HTML do template para visualizar sua estrutura e aparência. Em seguida, abre o projeto no VS Code para explorar a estrutura de arquivos e pastas do template.
+4. O aluno seleciona imagens e textos que deseja substituir no template e realiza as alterações necessárias.
+5. O aluno navega pelo código HTML do template e faz alterações para personalizá-lo.
+6. O aluno decide adicionar um carrossel de imagens (componente Bootstrap) na seção “Sobre”. Ele pesquisa um exemplo na internet, copia o código e incorpora ao template.
+7. O aluno pesquisa um exemplo de seção de preços na internet, copia o código e adiciona essa seção após a seção de serviços no template.
+8. O aluno vai ao Google Maps, encontra a localização que deseja adicionar, obtém o código de incorporação e adiciona à seção de contato no template.
+9. Finalmente, o aluno realiza mais alterações para personalizar o template, como traduzir textos, substituir links de redes sociais, adicionar informações pessoais ou do cliente fictício, e até adicionar ou remover seções conforme necessário.
+
+Ao final da atividade, o aluno terá um site personalizado criado a partir de um template Bootstrap, onde colocou em prática as habilidades de HTML, CSS e Bootstrap aprendidas durante o curso.

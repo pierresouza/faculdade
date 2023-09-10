@@ -1,0 +1,64 @@
+Nesta aula, aprenderemos como utilizar as classes para organizar melhor nosso desenvolvimento. O uso de classes tem se tornado mais comum no desenvolvimento com JavaScript devido ao crescimento do uso do Node.js. O que você aprenderá aqui poderá ser utilizado também em aplicações no Angular. A base que está sendo ensinada permitirá que você a utilize em outras tecnologias. Portanto, vamos compreender agora o uso de classes.
+
+Classes
+
+Quando definimos uma classe, um ponto importante é utilizar o construtor. Com ele, é possível manipular os parâmetros que foram passados ao instanciar uma classe.
+
+O construtor é definido dentro do bloco da classe, como se estivesse definindo um método chamado ‘construtor’, embora ele seja tratado como um caso especial.
+Fonte: Autor
+Fonte: Autor
+
+Como podemos usar essa classe?
+
+Fonte: Autor
+Fonte: Autor
+
+​Outra forma de usar classe é através da herança. A herança funciona exatamente como em outras linguagens orientadas a objetos: os métodos definidos na superclasse são acessíveis na subclasse de extensão. Se a subclasse declara seu próprio construtor, então ele deve invocar o construtor pai usando ‘super()’ antes de acessar ‘this’.​​
+
+Fonte: Autor
+Fonte: Autor
+
+​Getters e setters permitem que você defina um comportamento personalizado para ler e escrever uma determinada propriedade em sua classe. Para o usuário, eles aparecem como uma propriedade normal. No entanto, internamente, uma função personalizada é fornecida e utilizada para determinar o valor quando a propriedade é acessada (o getter) e para realizar as alterações necessárias quando um valor é atribuído (o setter). Em uma definição de classe, um getter é escrito como um método sem argumentos, prefixado pela palavra-chave ‘get’. Um setter é semelhante, exceto que ele aceita um argumento (o novo valor que está sendo atribuído). Aqui está um exemplo de classe que fornece um getter e um setter para a propriedade ‘.nome’.​​
+
+Fonte: Autoral
+Fonte: Autoral
+
+Composição
+
+A composição é um padrão de design no qual um objeto é composto por outros objetos menores, sendo cada um responsável por uma parte específica da funcionalidade geral. Em JavaScript, a composição é uma técnica que permite criar objetos complexos a partir de outros objetos mais simples, combinando suas funcionalidades.
+
+A composição em JavaScript geralmente é realizada por meio de objetos aninhados ou funções que retornam objetos. Um objeto pode ser composto por outros objetos que fornecem comportamentos específicos. Por exemplo, suponha que você tenha uma classe ‘Carro’ que precise ter recursos como ‘Motor’, ‘Transmissão’ e ‘Rodas’. Em vez de criar uma classe grande que implemente tudo isso, você pode criar objetos separados para cada recurso e combiná-los usando a composição.
+
+Veja um exemplo básico de como usar a composição em JavaScript:
+Fonte: Autoral
+Fonte: Autoral
+
+Neste exemplo, a classe ‘Carro’ recebe um objeto ‘Motor’ como argumento do construtor e o armazena em uma propriedade. O método ‘acelerar’ do objeto ‘Carro’ utiliza o objeto ‘Motor’ para obter informações sobre a cilindrada e imprimir uma mensagem. Isso permite que a classe ‘Carro’ tenha acesso à funcionalidade específica do objeto ‘Motor’ sem precisar implementá-la diretamente.
+
+
+
+
+
+Conteúdo Bônus
+
+Para utilizar as classes em JavaScript da melhor forma, devemos separar cada classe em um arquivo e transformá-las em módulos que serão importados onde desejamos utilizá-las. Vejamos o exemplo abaixo:
+Fonte: Autoral
+Fonte: Autoral
+
+​Para utilizar essa classe em outra classe, temos que fazer o require. Dessa forma, conseguimos usar de uma forma mais organizada o javascript orientado objetos.​​
+
+Fonte: Autoral
+Fonte: Autoral
+
+Agora podemos chamar o programa e teremos o seguinte resultado:
+
+Fonte: Autoral
+Fonte: Autoral
+
+
+
+Referência Bibliográfica
+
+FLANAGAN, David. JavaScript: O Guia Definitivo. 6ª Ed. Porto Alegre: Bookman, 2013.
+
+FREEMAN, Eric. Use a cabeça!: programação JavaScript. 1ª Ed. São Paulo: Alta Books, 2016.
