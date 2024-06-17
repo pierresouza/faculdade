@@ -12,8 +12,6 @@ Objetivos da aula
 
 ● Explicar a instalação e o uso do nodejs e extension node.js.
 
-
-
 Resumo
 
 Uma IDE reúne muitas dessas ferramentas relacionadas ao desenvolvimento como uma única estrutura, aplicativo ou serviço. O conjunto de ferramentas integrado foi projetado para simplificar o desenvolvimento de software e pode identificar e minimizar erros de codificação e erros de digitação.
@@ -44,13 +42,13 @@ Tipos de IDEs e ferramentas disponíveis
 
 Os desenvolvedores devem combinar o IDE que usam com o tipo de aplicativo que desejam produzir. Por exemplo, se um desenvolvedor deseja criar um aplicativo no iOS, ele precisa de um IDE que suporte a linguagem de programação Swift da Apple. Os tipos de IDEs variam, sejam baseados na Web ou baseados em nuvem a móveis.
 
-Os IDEs baseados na Web são adequados para o desenvolvimento de aplicativos baseados na Web em HTML, JavaScript ou linguagens de programação semelhantes. 
+Os IDEs baseados na Web são adequados para o desenvolvimento de aplicativos baseados na Web em HTML, JavaScript ou linguagens de programação semelhantes.
 
-O Visual Studio Code da Microsoft é um exemplo de ferramenta com recursos como editor de código, realce de sintaxe, execução de código e depuração. 
+O Visual Studio Code da Microsoft é um exemplo de ferramenta com recursos como editor de código, realce de sintaxe, execução de código e depuração.
 
 O Visual Studio Code foi a primeira ferramenta de desenvolvimento multiplataforma
 
-na família Microsoft Visual Studio que roda em Windows, Linux e Mac OS. 
+na família Microsoft Visual Studio que roda em Windows, Linux e Mac OS.
 
 Essa IDE que iremos utilizar aqui nessa disciplina.
 
