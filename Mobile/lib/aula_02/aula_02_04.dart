@@ -5,6 +5,7 @@ class Car {
   Car(this.model, this.year);
 
   void displayInfo() {
+    // ignore: avoid_print
     print("Model: $model, Year: $year");
   }
 }

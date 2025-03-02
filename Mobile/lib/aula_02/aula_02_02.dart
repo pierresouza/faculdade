@@ -38,6 +38,7 @@ class Person {
   Person(this.name, this.age);
 
   void introduce() {
+    // ignore: avoid_print
     print('Olá, meu nome é $name e tenho $age anos.');
   }
 }
