@@ -1,0 +1,12 @@
+{
+  "name": "mod2",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre Souza",
+  "license": "ISC",
+  "type": "module",
+  "description": ""
+}
