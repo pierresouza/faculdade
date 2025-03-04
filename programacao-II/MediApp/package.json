@@ -1,0 +1,14 @@
+{
+  "name": "mediapp",
+  "version": "1.0.0",
+  "description": "Mini projeto da Disciplina ProgramaçãoII",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
