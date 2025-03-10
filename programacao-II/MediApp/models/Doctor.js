@@ -24,9 +24,9 @@ const DoctorSchema = new Schema({
     type: String,
     required: [true, 'Doctor medical specialty is required'],
   },
-  medicalRegister: {
+  medicalRegistration: {
     type: String,
-    required: [true, 'Doctor medical register is required'],
+    required: [true, 'Doctor medical registration is required'],
     unique: true,
   },
   email: {
